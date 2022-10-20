@@ -1,0 +1,12 @@
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Models\bin\Debug\net6.0\RealEstates.Models.deps.json
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Models\bin\Debug\net6.0\RealEstates.Models.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Models\bin\Debug\net6.0\RealEstates.Models.pdb
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Models\obj\Debug\net6.0\RealEstates.Models.csproj.AssemblyReference.cache
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Models\obj\Debug\net6.0\RealEstates.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Models\obj\Debug\net6.0\RealEstates.Models.AssemblyInfoInputs.cache
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Models\obj\Debug\net6.0\RealEstates.Models.AssemblyInfo.cs
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Models\obj\Debug\net6.0\RealEstates.Models.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Models\obj\Debug\net6.0\RealEstates.Models.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Models\obj\Debug\net6.0\refint\RealEstates.Models.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Models\obj\Debug\net6.0\RealEstates.Models.pdb
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Models\obj\Debug\net6.0\ref\RealEstates.Models.dll
