@@ -1,4 +1,4 @@
-﻿
+﻿using System.Collections.Generic;
 
 namespace RealEstates.Models
 {
@@ -24,7 +24,7 @@ namespace RealEstates.Models
         /// Gets or sets the property price is in Euro
         /// </summary>
 
-        public int Price { get; set; }
+        public int? Price { get; set; }
 
 
         public int DistrictId { get; set; }

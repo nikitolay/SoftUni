@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GeaqZ0MFzpsN1/iuQeUgSSUBFGtMBaht2/6ftn6a5JE+En5X9wQVtHsOcUuqBq7fyDxgUy6QPUlgxHtRqHz16A==",
+  "dgSpecHash": "4Qs0zrMMl6WSaHmYGGgfINTNL++SAAc5qvumqy8lWp+7gI0wjmYgWjIAleoGANq9VunL50ODV+H153kS4H/hLA==",
   "success": true,
   "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nikor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\nikor\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\nikor\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",

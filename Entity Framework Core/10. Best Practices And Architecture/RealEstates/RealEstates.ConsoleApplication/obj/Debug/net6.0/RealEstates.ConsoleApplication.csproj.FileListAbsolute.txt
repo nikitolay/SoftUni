@@ -60,3 +60,4 @@ C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEst
 C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.ConsoleApplication\obj\Debug\net6.0\RealEstates.ConsoleApplication.pdb
 C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.ConsoleApplication\obj\Debug\net6.0\RealEstates.ConsoleApplication.genruntimeconfig.cache
 C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.ConsoleApplication\obj\Debug\net6.0\ref\RealEstates.ConsoleApplication.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.ConsoleApplication\bin\Debug\net6.0\AutoMapper.dll

@@ -1,9 +1,10 @@
-﻿using RealEstates.Data;
+﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using RealEstates.Data;
 using RealEstates.Services.Models;
 
 namespace RealEstates.Services
 {
-    public class DistrictService : IDistrictsService
+    public class DistrictService : BaseService, IDistrictsService
     {
         private readonly ApplicationDbContext dbContext;
 
@@ -13,7 +14,19 @@ namespace RealEstates.Services
         }
         public IEnumerable<DistrictInfoDto> GetMostExpensiveDistricts(int count)
         {
-            return new List<DistrictInfoDto>();
+            var districts = dbContext.Districts
+                .Select(x => new DistrictInfoDto
+                {
+                    Name = x.Name,
+                    AveragePricePerSquareMeter =
+                        x.Properties.Where(p => p.Price.HasValue).Average(p => p.Price / (decimal)p.Size) ?? 0,
+                    PropertiesCount = x.Properties.Count()
+                })
+                .OrderByDescending(x => x.AveragePricePerSquareMeter)
+                .Take(count)
+                .ToList();
+
+            return districts;
         }
     }
 }

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3JtzWmE+uHxVMO3jEp5cuI6lEGX1O8zmQij6tYtGQA4He8GQ/OzxmuOBYC3Ht0rvLxB2xbp4YqdD4+yt2KFkMQ==",
+  "dgSpecHash": "mDF+TWKMZHM/eTN/S95k5t5OwiTJd0Aw9QasPZjJy7fysRgzYkR+abBIA23cHV4JgZn/AeWa7qDQV/ex/cjFcw==",
   "success": true,
   "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nikor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\nikor\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\nikor\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
@@ -43,6 +44,8 @@
     "C:\\Users\\nikor\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
+    "C:\\Users\\nikor\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\nikor\\.nuget\\packages\\system.text.json\\6.0.6\\system.text.json.6.0.6.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []

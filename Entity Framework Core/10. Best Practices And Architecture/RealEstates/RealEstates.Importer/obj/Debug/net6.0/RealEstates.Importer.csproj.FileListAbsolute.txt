@@ -60,3 +60,7 @@ C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEst
 C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Importer\obj\Debug\net6.0\RealEstates.Importer.pdb
 C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Importer\obj\Debug\net6.0\RealEstates.Importer.genruntimeconfig.cache
 C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Importer\obj\Debug\net6.0\ref\RealEstates.Importer.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Importer\bin\Debug\net6.0\imot.bg-houses-Sofia-raw-data-2021-03-18.json
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Importer\bin\Debug\net6.0\imot.bg-raw-data-2021-03-18.json
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Importer\bin\Debug\net6.0\System.Text.Json.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\RealEstates\RealEstates.Importer\bin\Debug\net6.0\AutoMapper.dll
