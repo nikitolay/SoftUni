@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\bin\Debug\netcoreapp3.1\4. Print and Sum.exe
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\bin\Debug\netcoreapp3.1\4. Print and Sum.deps.json
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\bin\Debug\netcoreapp3.1\4. Print and Sum.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\bin\Debug\netcoreapp3.1\4. Print and Sum.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\bin\Debug\netcoreapp3.1\4. Print and Sum.dll
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\bin\Debug\netcoreapp3.1\4. Print and Sum.pdb
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\obj\Debug\netcoreapp3.1\4. Print and Sum.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\obj\Debug\netcoreapp3.1\4. Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\obj\Debug\netcoreapp3.1\4. Print and Sum.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\obj\Debug\netcoreapp3.1\4. Print and Sum.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\obj\Debug\netcoreapp3.1\4. Print and Sum.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\obj\Debug\netcoreapp3.1\4. Print and Sum.dll
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\obj\Debug\netcoreapp3.1\4. Print and Sum.pdb
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\4. Print and Sum\obj\Debug\netcoreapp3.1\4. Print and Sum.genruntimeconfig.cache

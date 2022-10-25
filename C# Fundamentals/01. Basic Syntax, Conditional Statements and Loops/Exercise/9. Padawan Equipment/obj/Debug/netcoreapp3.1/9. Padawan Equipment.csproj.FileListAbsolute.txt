@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\bin\Debug\netcoreapp3.1\9. Padawan Equipment.exe
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\bin\Debug\netcoreapp3.1\9. Padawan Equipment.deps.json
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\bin\Debug\netcoreapp3.1\9. Padawan Equipment.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\bin\Debug\netcoreapp3.1\9. Padawan Equipment.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\bin\Debug\netcoreapp3.1\9. Padawan Equipment.dll
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\bin\Debug\netcoreapp3.1\9. Padawan Equipment.pdb
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\obj\Debug\netcoreapp3.1\9. Padawan Equipment.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\obj\Debug\netcoreapp3.1\9. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\obj\Debug\netcoreapp3.1\9. Padawan Equipment.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\obj\Debug\netcoreapp3.1\9. Padawan Equipment.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\obj\Debug\netcoreapp3.1\9. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\obj\Debug\netcoreapp3.1\9. Padawan Equipment.dll
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\obj\Debug\netcoreapp3.1\9. Padawan Equipment.pdb
+C:\git\SoftUni\C# Fundamentals\01. Basic Syntax, Conditional Statements and Loops\Exercise\9. Padawan Equipment\obj\Debug\netcoreapp3.1\9. Padawan Equipment.genruntimeconfig.cache
