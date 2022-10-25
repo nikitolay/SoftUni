@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\bin\Debug\netcoreapp3.1\10.  Multiplication Table.exe
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\bin\Debug\netcoreapp3.1\10.  Multiplication Table.deps.json
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\bin\Debug\netcoreapp3.1\10.  Multiplication Table.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\bin\Debug\netcoreapp3.1\10.  Multiplication Table.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\bin\Debug\netcoreapp3.1\10.  Multiplication Table.dll
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\bin\Debug\netcoreapp3.1\10.  Multiplication Table.pdb
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\obj\Debug\netcoreapp3.1\10.  Multiplication Table.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\obj\Debug\netcoreapp3.1\10.  Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\obj\Debug\netcoreapp3.1\10.  Multiplication Table.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\obj\Debug\netcoreapp3.1\10.  Multiplication Table.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\obj\Debug\netcoreapp3.1\10.  Multiplication Table.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\obj\Debug\netcoreapp3.1\10.  Multiplication Table.dll
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\obj\Debug\netcoreapp3.1\10.  Multiplication Table.pdb
+C:\git\SoftUni\C# Fundamentals\10.  Multiplication Table\obj\Debug\netcoreapp3.1\10.  Multiplication Table.genruntimeconfig.cache

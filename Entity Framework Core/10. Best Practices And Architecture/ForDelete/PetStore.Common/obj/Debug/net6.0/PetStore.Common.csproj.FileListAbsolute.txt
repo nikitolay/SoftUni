@@ -1,0 +1,12 @@
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\bin\Debug\net6.0\PetStore.Common.deps.json
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\bin\Debug\net6.0\PetStore.Common.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\bin\Debug\net6.0\PetStore.Common.pdb
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\obj\Debug\net6.0\PetStore.Common.csproj.AssemblyReference.cache
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\obj\Debug\net6.0\PetStore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\obj\Debug\net6.0\PetStore.Common.AssemblyInfoInputs.cache
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\obj\Debug\net6.0\PetStore.Common.AssemblyInfo.cs
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\obj\Debug\net6.0\PetStore.Common.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\obj\Debug\net6.0\PetStore.Common.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\obj\Debug\net6.0\refint\PetStore.Common.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\obj\Debug\net6.0\PetStore.Common.pdb
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\obj\Debug\net6.0\ref\PetStore.Common.dll

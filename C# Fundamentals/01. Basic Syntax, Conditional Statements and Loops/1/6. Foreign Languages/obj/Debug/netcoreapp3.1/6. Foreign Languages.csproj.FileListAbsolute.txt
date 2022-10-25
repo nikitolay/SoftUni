@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.exe
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.deps.json
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.dll
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\bin\Debug\netcoreapp3.1\6. Foreign Languages.pdb
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.dll
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.pdb
+C:\git\SoftUni\C# Fundamentals\6. Foreign Languages\obj\Debug\netcoreapp3.1\6. Foreign Languages.genruntimeconfig.cache

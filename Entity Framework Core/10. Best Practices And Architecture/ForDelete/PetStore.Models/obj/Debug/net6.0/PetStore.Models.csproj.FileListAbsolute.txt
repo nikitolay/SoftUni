@@ -1,0 +1,15 @@
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\bin\Debug\net6.0\PetStore.Models.deps.json
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\bin\Debug\net6.0\PetStore.Models.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\bin\Debug\net6.0\PetStore.Models.pdb
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\bin\Debug\net6.0\PetStore.Common.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\bin\Debug\net6.0\PetStore.Common.pdb
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\obj\Debug\net6.0\PetStore.Models.csproj.AssemblyReference.cache
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\obj\Debug\net6.0\PetStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\obj\Debug\net6.0\PetStore.Models.AssemblyInfoInputs.cache
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\obj\Debug\net6.0\PetStore.Models.AssemblyInfo.cs
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\obj\Debug\net6.0\PetStore.Models.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\obj\Debug\net6.0\PetStore.Models.csproj.CopyComplete
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\obj\Debug\net6.0\PetStore.Models.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\obj\Debug\net6.0\refint\PetStore.Models.dll
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\obj\Debug\net6.0\PetStore.Models.pdb
+C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Models\obj\Debug\net6.0\ref\PetStore.Models.dll

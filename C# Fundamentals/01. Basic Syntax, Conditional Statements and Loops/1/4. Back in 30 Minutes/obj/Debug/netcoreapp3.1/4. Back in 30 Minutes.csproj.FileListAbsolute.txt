@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.exe
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.deps.json
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.dll
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.pdb
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.dll
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.pdb
+C:\git\SoftUni\C# Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.genruntimeconfig.cache

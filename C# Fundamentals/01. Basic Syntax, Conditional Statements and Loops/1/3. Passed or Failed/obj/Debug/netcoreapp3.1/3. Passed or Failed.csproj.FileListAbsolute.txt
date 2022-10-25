@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\bin\Debug\netcoreapp3.1\3. Passed or Failed.exe
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\bin\Debug\netcoreapp3.1\3. Passed or Failed.deps.json
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\bin\Debug\netcoreapp3.1\3. Passed or Failed.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\bin\Debug\netcoreapp3.1\3. Passed or Failed.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\bin\Debug\netcoreapp3.1\3. Passed or Failed.dll
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\bin\Debug\netcoreapp3.1\3. Passed or Failed.pdb
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\obj\Debug\netcoreapp3.1\3. Passed or Failed.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\obj\Debug\netcoreapp3.1\3. Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\obj\Debug\netcoreapp3.1\3. Passed or Failed.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\obj\Debug\netcoreapp3.1\3. Passed or Failed.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\obj\Debug\netcoreapp3.1\3. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\obj\Debug\netcoreapp3.1\3. Passed or Failed.dll
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\obj\Debug\netcoreapp3.1\3. Passed or Failed.pdb
+C:\git\SoftUni\C# Fundamentals\3. Passed or Failed\obj\Debug\netcoreapp3.1\3. Passed or Failed.genruntimeconfig.cache

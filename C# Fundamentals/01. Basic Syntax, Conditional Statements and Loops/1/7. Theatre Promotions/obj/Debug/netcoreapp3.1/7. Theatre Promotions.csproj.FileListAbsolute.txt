@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.exe
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.deps.json
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.dll
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.pdb
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.dll
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.pdb
+C:\git\SoftUni\C# Fundamentals\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.genruntimeconfig.cache
