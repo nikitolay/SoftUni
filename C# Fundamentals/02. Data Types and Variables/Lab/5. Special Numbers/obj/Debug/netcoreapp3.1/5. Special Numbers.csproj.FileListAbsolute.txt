@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\bin\Debug\netcoreapp3.1\5. Special Numbers.exe
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\bin\Debug\netcoreapp3.1\5. Special Numbers.deps.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\bin\Debug\netcoreapp3.1\5. Special Numbers.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\bin\Debug\netcoreapp3.1\5. Special Numbers.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\bin\Debug\netcoreapp3.1\5. Special Numbers.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\bin\Debug\netcoreapp3.1\5. Special Numbers.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\5. Special Numbers\obj\Debug\netcoreapp3.1\5. Special Numbers.genruntimeconfig.cache

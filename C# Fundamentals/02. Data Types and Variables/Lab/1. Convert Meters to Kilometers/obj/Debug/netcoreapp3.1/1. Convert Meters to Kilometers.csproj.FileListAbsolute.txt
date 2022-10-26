@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.exe
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.deps.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Lab\1. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\1. Convert Meters to Kilometers.genruntimeconfig.cache
