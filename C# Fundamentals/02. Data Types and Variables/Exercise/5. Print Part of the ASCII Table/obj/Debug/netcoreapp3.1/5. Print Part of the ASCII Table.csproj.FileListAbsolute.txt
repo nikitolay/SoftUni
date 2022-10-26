@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.exe
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.deps.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.genruntimeconfig.cache

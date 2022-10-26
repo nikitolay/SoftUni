@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\bin\Debug\netcoreapp3.1\4. Sum of Chars.exe
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\bin\Debug\netcoreapp3.1\4. Sum of Chars.deps.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\bin\Debug\netcoreapp3.1\4. Sum of Chars.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\bin\Debug\netcoreapp3.1\4. Sum of Chars.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\bin\Debug\netcoreapp3.1\4. Sum of Chars.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\bin\Debug\netcoreapp3.1\4. Sum of Chars.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\obj\Debug\netcoreapp3.1\4. Sum of Chars.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\obj\Debug\netcoreapp3.1\4. Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\obj\Debug\netcoreapp3.1\4. Sum of Chars.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\obj\Debug\netcoreapp3.1\4. Sum of Chars.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\obj\Debug\netcoreapp3.1\4. Sum of Chars.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\obj\Debug\netcoreapp3.1\4. Sum of Chars.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\obj\Debug\netcoreapp3.1\4. Sum of Chars.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\4. Sum of Chars\obj\Debug\netcoreapp3.1\4. Sum of Chars.genruntimeconfig.cache
