@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\bin\Debug\netcoreapp3.1\7. Equal Arrays.exe
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\bin\Debug\netcoreapp3.1\7. Equal Arrays.deps.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\bin\Debug\netcoreapp3.1\7. Equal Arrays.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\bin\Debug\netcoreapp3.1\7. Equal Arrays.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\bin\Debug\netcoreapp3.1\7. Equal Arrays.dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\bin\Debug\netcoreapp3.1\7. Equal Arrays.pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Lab\7. Equal Arrays\obj\Debug\netcoreapp3.1\7. Equal Arrays.genruntimeconfig.cache
