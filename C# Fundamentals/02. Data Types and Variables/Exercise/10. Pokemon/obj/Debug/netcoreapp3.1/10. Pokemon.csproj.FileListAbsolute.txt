@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\bin\Debug\netcoreapp3.1\10. Pokemon.exe
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\bin\Debug\netcoreapp3.1\10. Pokemon.deps.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\bin\Debug\netcoreapp3.1\10. Pokemon.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\bin\Debug\netcoreapp3.1\10. Pokemon.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\bin\Debug\netcoreapp3.1\10. Pokemon.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\bin\Debug\netcoreapp3.1\10. Pokemon.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.genruntimeconfig.cache

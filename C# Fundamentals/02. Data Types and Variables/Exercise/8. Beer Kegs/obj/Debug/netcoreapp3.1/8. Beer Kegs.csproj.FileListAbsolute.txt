@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\bin\Debug\netcoreapp3.1\8. Beer Kegs.exe
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\bin\Debug\netcoreapp3.1\8. Beer Kegs.deps.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\bin\Debug\netcoreapp3.1\8. Beer Kegs.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\bin\Debug\netcoreapp3.1\8. Beer Kegs.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\bin\Debug\netcoreapp3.1\8. Beer Kegs.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\bin\Debug\netcoreapp3.1\8. Beer Kegs.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\Exercise\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.genruntimeconfig.cache
