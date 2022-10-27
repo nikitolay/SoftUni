@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.exe
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.deps.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.genruntimeconfig.cache

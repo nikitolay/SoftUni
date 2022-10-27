@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\bin\Debug\netcoreapp3.1\5. Decrypting Messages.exe
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\bin\Debug\netcoreapp3.1\5. Decrypting Messages.deps.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\bin\Debug\netcoreapp3.1\5. Decrypting Messages.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\bin\Debug\netcoreapp3.1\5. Decrypting Messages.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\bin\Debug\netcoreapp3.1\5. Decrypting Messages.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\bin\Debug\netcoreapp3.1\5. Decrypting Messages.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\5. Decrypting Messages\obj\Debug\netcoreapp3.1\5. Decrypting Messages.genruntimeconfig.cache

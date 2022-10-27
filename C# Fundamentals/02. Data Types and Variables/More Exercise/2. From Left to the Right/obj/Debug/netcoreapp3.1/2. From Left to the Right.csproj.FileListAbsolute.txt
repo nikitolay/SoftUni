@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\bin\Debug\netcoreapp3.1\2. From Left to the Right.exe
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\bin\Debug\netcoreapp3.1\2. From Left to the Right.deps.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\bin\Debug\netcoreapp3.1\2. From Left to the Right.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\bin\Debug\netcoreapp3.1\2. From Left to the Right.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\bin\Debug\netcoreapp3.1\2. From Left to the Right.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\bin\Debug\netcoreapp3.1\2. From Left to the Right.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\obj\Debug\netcoreapp3.1\2. From Left to the Right.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\obj\Debug\netcoreapp3.1\2. From Left to the Right.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\obj\Debug\netcoreapp3.1\2. From Left to the Right.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\obj\Debug\netcoreapp3.1\2. From Left to the Right.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\obj\Debug\netcoreapp3.1\2. From Left to the Right.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\obj\Debug\netcoreapp3.1\2. From Left to the Right.dll
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\obj\Debug\netcoreapp3.1\2. From Left to the Right.pdb
+C:\git\SoftUni\C# Fundamentals\02. Data Types and Variables\More Exercise\2. From Left to the Right\obj\Debug\netcoreapp3.1\2. From Left to the Right.genruntimeconfig.cache
