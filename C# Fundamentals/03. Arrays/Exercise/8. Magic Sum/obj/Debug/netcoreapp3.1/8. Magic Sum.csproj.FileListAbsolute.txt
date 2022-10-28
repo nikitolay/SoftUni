@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.exe
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.deps.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\bin\Debug\netcoreapp3.1\8. Magic Sum.pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\8. Magic Sum\obj\Debug\netcoreapp3.1\8. Magic Sum.genruntimeconfig.cache

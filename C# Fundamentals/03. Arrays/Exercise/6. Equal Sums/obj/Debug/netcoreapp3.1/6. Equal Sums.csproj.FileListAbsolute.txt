@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\bin\Debug\netcoreapp3.1\6. Equal Sums.exe
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\bin\Debug\netcoreapp3.1\6. Equal Sums.deps.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\bin\Debug\netcoreapp3.1\6. Equal Sums.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\bin\Debug\netcoreapp3.1\6. Equal Sums.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\bin\Debug\netcoreapp3.1\6. Equal Sums.dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\bin\Debug\netcoreapp3.1\6. Equal Sums.pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.genruntimeconfig.cache

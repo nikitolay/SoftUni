@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\bin\Debug\netcoreapp3.1\2. Common Elements.exe
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\bin\Debug\netcoreapp3.1\2. Common Elements.deps.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\bin\Debug\netcoreapp3.1\2. Common Elements.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\bin\Debug\netcoreapp3.1\2. Common Elements.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\bin\Debug\netcoreapp3.1\2. Common Elements.dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\bin\Debug\netcoreapp3.1\2. Common Elements.pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\2. Common Elements\obj\Debug\netcoreapp3.1\2. Common Elements.genruntimeconfig.cache

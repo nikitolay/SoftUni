@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.exe
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.deps.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\7. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\7. Max Sequence of Equal Elements.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\bin\Debug\netcoreapp3.1\9. Kamino Factory.exe
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\bin\Debug\netcoreapp3.1\9. Kamino Factory.deps.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\bin\Debug\netcoreapp3.1\9. Kamino Factory.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\bin\Debug\netcoreapp3.1\9. Kamino Factory.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\bin\Debug\netcoreapp3.1\9. Kamino Factory.dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\bin\Debug\netcoreapp3.1\9. Kamino Factory.pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.genruntimeconfig.cache
