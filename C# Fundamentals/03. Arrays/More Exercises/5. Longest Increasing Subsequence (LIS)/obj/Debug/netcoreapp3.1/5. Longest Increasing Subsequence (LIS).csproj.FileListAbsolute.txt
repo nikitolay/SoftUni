@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\bin\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).exe
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\bin\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).deps.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\bin\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\bin\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\bin\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\bin\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).dll
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).pdb
+C:\git\SoftUni\C# Fundamentals\03. Arrays\More Exercises\5. Longest Increasing Subsequence (LIS)\obj\Debug\netcoreapp3.1\5. Longest Increasing Subsequence (LIS).genruntimeconfig.cache
