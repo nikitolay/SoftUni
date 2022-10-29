@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\bin\Debug\netcoreapp3.1\3. Longer Line.exe
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\bin\Debug\netcoreapp3.1\3. Longer Line.deps.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\bin\Debug\netcoreapp3.1\3. Longer Line.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\bin\Debug\netcoreapp3.1\3. Longer Line.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\bin\Debug\netcoreapp3.1\3. Longer Line.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\bin\Debug\netcoreapp3.1\3. Longer Line.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\obj\Debug\netcoreapp3.1\3. Longer Line.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\obj\Debug\netcoreapp3.1\3. Longer Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\obj\Debug\netcoreapp3.1\3. Longer Line.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\obj\Debug\netcoreapp3.1\3. Longer Line.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\obj\Debug\netcoreapp3.1\3. Longer Line.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\obj\Debug\netcoreapp3.1\3. Longer Line.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\obj\Debug\netcoreapp3.1\3. Longer Line.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\3. Longer Line\obj\Debug\netcoreapp3.1\3. Longer Line.genruntimeconfig.cache

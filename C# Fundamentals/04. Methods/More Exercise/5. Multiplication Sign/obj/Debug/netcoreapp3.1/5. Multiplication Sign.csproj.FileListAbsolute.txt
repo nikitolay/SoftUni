@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\bin\Debug\netcoreapp3.1\5. Multiplication Sign.exe
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\bin\Debug\netcoreapp3.1\5. Multiplication Sign.deps.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\bin\Debug\netcoreapp3.1\5. Multiplication Sign.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\bin\Debug\netcoreapp3.1\5. Multiplication Sign.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\bin\Debug\netcoreapp3.1\5. Multiplication Sign.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\bin\Debug\netcoreapp3.1\5. Multiplication Sign.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\5. Multiplication Sign\obj\Debug\netcoreapp3.1\5. Multiplication Sign.genruntimeconfig.cache

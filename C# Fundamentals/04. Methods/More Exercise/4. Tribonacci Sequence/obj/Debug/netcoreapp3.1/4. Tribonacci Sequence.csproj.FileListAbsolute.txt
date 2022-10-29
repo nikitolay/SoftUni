@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\bin\Debug\netcoreapp3.1\4. Tribonacci Sequence.exe
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\bin\Debug\netcoreapp3.1\4. Tribonacci Sequence.deps.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\bin\Debug\netcoreapp3.1\4. Tribonacci Sequence.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\bin\Debug\netcoreapp3.1\4. Tribonacci Sequence.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\bin\Debug\netcoreapp3.1\4. Tribonacci Sequence.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\bin\Debug\netcoreapp3.1\4. Tribonacci Sequence.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\obj\Debug\netcoreapp3.1\4. Tribonacci Sequence.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\obj\Debug\netcoreapp3.1\4. Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\obj\Debug\netcoreapp3.1\4. Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\obj\Debug\netcoreapp3.1\4. Tribonacci Sequence.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\obj\Debug\netcoreapp3.1\4. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\obj\Debug\netcoreapp3.1\4. Tribonacci Sequence.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\obj\Debug\netcoreapp3.1\4. Tribonacci Sequence.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\More Exercise\4. Tribonacci Sequence\obj\Debug\netcoreapp3.1\4. Tribonacci Sequence.genruntimeconfig.cache
