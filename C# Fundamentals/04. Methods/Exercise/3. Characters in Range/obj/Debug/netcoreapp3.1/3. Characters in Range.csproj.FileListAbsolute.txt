@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.exe
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.deps.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\1. Smallest of Three Numbers.exe
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\1. Smallest of Three Numbers.deps.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\1. Smallest of Three Numbers.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\1. Smallest of Three Numbers.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\1. Smallest of Three Numbers.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\1. Smallest of Three Numbers.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\1. Smallest of Three Numbers.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\1. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\1. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\1. Smallest of Three Numbers.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\1. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\1. Smallest of Three Numbers.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\1. Smallest of Three Numbers.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\Exercise\1. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\1. Smallest of Three Numbers.genruntimeconfig.cache
