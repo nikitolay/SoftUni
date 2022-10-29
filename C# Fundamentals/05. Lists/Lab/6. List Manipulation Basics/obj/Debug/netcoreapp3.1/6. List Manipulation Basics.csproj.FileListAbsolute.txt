@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\bin\Debug\netcoreapp3.1\6. List Manipulation Basics.exe
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\bin\Debug\netcoreapp3.1\6. List Manipulation Basics.deps.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\bin\Debug\netcoreapp3.1\6. List Manipulation Basics.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\bin\Debug\netcoreapp3.1\6. List Manipulation Basics.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\bin\Debug\netcoreapp3.1\6. List Manipulation Basics.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\bin\Debug\netcoreapp3.1\6. List Manipulation Basics.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\obj\Debug\netcoreapp3.1\6. List Manipulation Basics.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\obj\Debug\netcoreapp3.1\6. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\obj\Debug\netcoreapp3.1\6. List Manipulation Basics.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\obj\Debug\netcoreapp3.1\6. List Manipulation Basics.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\obj\Debug\netcoreapp3.1\6. List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\obj\Debug\netcoreapp3.1\6. List Manipulation Basics.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\obj\Debug\netcoreapp3.1\6. List Manipulation Basics.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\6. List Manipulation Basics\obj\Debug\netcoreapp3.1\6. List Manipulation Basics.genruntimeconfig.cache

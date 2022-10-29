@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.exe
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.deps.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Lab\1. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\1. Sum Adjacent Equal Numbers.genruntimeconfig.cache
