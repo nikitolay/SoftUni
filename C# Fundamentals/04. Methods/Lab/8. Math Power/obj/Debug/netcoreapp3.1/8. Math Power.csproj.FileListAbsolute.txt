@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\bin\Debug\netcoreapp3.1\8. Math Power.exe
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\bin\Debug\netcoreapp3.1\8. Math Power.deps.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\bin\Debug\netcoreapp3.1\8. Math Power.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\bin\Debug\netcoreapp3.1\8. Math Power.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\bin\Debug\netcoreapp3.1\8. Math Power.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\bin\Debug\netcoreapp3.1\8. Math Power.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\obj\Debug\netcoreapp3.1\8. Math Power.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\obj\Debug\netcoreapp3.1\8. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\obj\Debug\netcoreapp3.1\8. Math Power.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\obj\Debug\netcoreapp3.1\8. Math Power.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\obj\Debug\netcoreapp3.1\8. Math Power.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\obj\Debug\netcoreapp3.1\8. Math Power.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\obj\Debug\netcoreapp3.1\8. Math Power.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\8. Math Power\obj\Debug\netcoreapp3.1\8. Math Power.genruntimeconfig.cache

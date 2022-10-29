@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\bin\Debug\netcoreapp3.1\4. Printing Triangle.exe
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\bin\Debug\netcoreapp3.1\4. Printing Triangle.deps.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\bin\Debug\netcoreapp3.1\4. Printing Triangle.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\bin\Debug\netcoreapp3.1\4. Printing Triangle.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\bin\Debug\netcoreapp3.1\4. Printing Triangle.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\bin\Debug\netcoreapp3.1\4. Printing Triangle.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\obj\Debug\netcoreapp3.1\4. Printing Triangle.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\obj\Debug\netcoreapp3.1\4. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\obj\Debug\netcoreapp3.1\4. Printing Triangle.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\obj\Debug\netcoreapp3.1\4. Printing Triangle.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\obj\Debug\netcoreapp3.1\4. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\obj\Debug\netcoreapp3.1\4. Printing Triangle.dll
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\obj\Debug\netcoreapp3.1\4. Printing Triangle.pdb
+C:\git\SoftUni\C# Fundamentals\04. Methods\Lab\4. Printing Triangle\obj\Debug\netcoreapp3.1\4. Printing Triangle.genruntimeconfig.cache
