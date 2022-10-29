@@ -7,92 +7,86 @@ namespace _9._Kamino_Factory
     {
         static void Main(string[] args)
         {
-            string input = string.Empty;
-            int length = int.Parse(Console.ReadLine());
-            int[] lss = new int[length];
-            int lssLength = int.MinValue, lssIndex = int.MinValue, lssSum = int.MinValue, lssStart = -1;
-            int index = 1;
-
-            while ((input = Console.ReadLine()) != "Clone them!")
+           int dnaLength = int.Parse(Console.ReadLine());
+ 
+            int[] bestSample = new int[dnaLength];
+            int leftmostIndex = dnaLength;
+            int bestSampleSequenseLenght = 0;
+            int bestSampleSum = 0;
+            int bestSampleNumber = 1;
+ 
+            string command = Console.ReadLine();
+            int sampleNum = 0;
+ 
+            while (command != "Clone them!")
             {
-                int[] data = input
-                    .Split(new char[] { '!' }, StringSplitOptions.RemoveEmptyEntries)
+                int[] currentSample = command.Split("!".ToCharArray(), StringSplitOptions.RemoveEmptyEntries)
                     .Select(int.Parse)
                     .ToArray();
-
-                int currentLength = int.MinValue, currentIndex = int.MinValue, currentSubLength = 0, currentSubIndex = 0;
-                bool isOne = false;
-
-                for (int i = 0; i < length; i++)
+ 
+                sampleNum++;
+ 
+                int currentSequenceLenght = 0;
+                int previousSequenceLenght = 0;
+                int currentLongestSequence = 0;
+ 
+                int leftmostIndexInCurrentArray = dnaLength;
+ 
+                int currentSampleSum = 0;
+ 
+                for (int i = 0; i < currentSample.Length; i++)
                 {
-                    if (data[i] == 1 && isOne)
+                    if (currentSample[i] == 1)
                     {
-                        currentSubLength++;
+                        currentSequenceLenght++;
+                        currentSampleSum++;
                     }
-                    else if (data[i] == 1)
+                    else
                     {
-                        isOne = true;
-                        currentSubIndex = i;
-                        currentSubLength = 1;
+                        previousSequenceLenght = currentSequenceLenght;
+                        currentSequenceLenght = 0;   
                     }
-                    else if (data[i] == 0 && isOne)
+ 
+                    if (currentSequenceLenght > previousSequenceLenght)
                     {
-                        if (currentSubLength > currentLength)
+                        currentLongestSequence = currentSequenceLenght;
+                        leftmostIndexInCurrentArray = i - currentSequenceLenght + 1;
+                    }
+                }
+ 
+                if (currentLongestSequence > bestSampleSequenseLenght)
+                {
+                    bestSampleSequenseLenght = currentLongestSequence;
+                    leftmostIndex = leftmostIndexInCurrentArray;
+                    bestSample = currentSample;
+                    bestSampleNumber = sampleNum;
+                    bestSampleSum = currentSampleSum;
+                }
+                else if (currentLongestSequence == bestSampleSequenseLenght)
+                {
+                    if (leftmostIndexInCurrentArray < leftmostIndex)
+                    {
+                        leftmostIndex = leftmostIndexInCurrentArray;
+                        bestSampleSum = currentSampleSum;
+                        bestSample = currentSample;
+                        bestSampleNumber = sampleNum;
+                    }
+                    else if (leftmostIndex == leftmostIndexInCurrentArray)
+                    {
+                        if (currentSampleSum > bestSampleSum)
                         {
-                            currentLength = currentSubLength;
-                            currentIndex = currentSubIndex;
-                        }
-                        isOne = false;
-                        currentSubLength = 0;
-                        currentSubIndex = 0;
-                    }
-                }
-
-                if (isOne)
-                {
-                    if (currentSubLength > currentLength)
-                    {
-                        currentLength = currentSubLength;
-                        currentIndex = currentSubIndex;
-                    }
-                }
-
-                if (currentLength > lssLength)
-                {
-                    lssLength = currentLength;
-                    lssIndex = currentIndex;
-                    lssSum = data.Sum();
-                    lss = data;
-                    lssStart = index;
-                }
-                else if (currentLength == lssLength)
-                {
-                    if (currentIndex < lssIndex)
-                    {
-                        lssLength = currentLength;
-                        lssIndex = currentIndex;
-                        lssSum = data.Sum();
-                        lss = data;
-                        lssStart = index;
-                    }
-                    else if (currentIndex == lssIndex)
-                    {
-                        if (data.Sum() > lssSum)
-                        {
-                            lssLength = currentLength;
-                            lssIndex = currentIndex;
-                            lssSum = data.Sum();
-                            lss = data;
-                            lssStart = index;
+                            bestSampleSum = currentSampleSum;
+                            bestSample = currentSample;
+                            bestSampleNumber = sampleNum;
                         }
                     }
                 }
-                index++;
+ 
+                command = Console.ReadLine();
             }
-
-            Console.WriteLine($"Best DNA sample {lssStart} with sum: {lssSum}.");
-            Console.WriteLine(string.Join(" ", lss));
-        
+ 
+            Console.WriteLine($"Best DNA sample {bestSampleNumber} with sum: {bestSampleSum}.");
+            Console.WriteLine(string.Join(" ", bestSample));
         }
     }
 }
