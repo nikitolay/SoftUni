@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\bin\Debug\netcoreapp3.1\2. Change List.exe
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\bin\Debug\netcoreapp3.1\2. Change List.deps.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\bin\Debug\netcoreapp3.1\2. Change List.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\bin\Debug\netcoreapp3.1\2. Change List.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\bin\Debug\netcoreapp3.1\2. Change List.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\bin\Debug\netcoreapp3.1\2. Change List.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\obj\Debug\netcoreapp3.1\2. Change List.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\obj\Debug\netcoreapp3.1\2. Change List.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\obj\Debug\netcoreapp3.1\2. Change List.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\obj\Debug\netcoreapp3.1\2. Change List.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\obj\Debug\netcoreapp3.1\2. Change List.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\obj\Debug\netcoreapp3.1\2. Change List.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\obj\Debug\netcoreapp3.1\2. Change List.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\2. Change List\obj\Debug\netcoreapp3.1\2. Change List.genruntimeconfig.cache

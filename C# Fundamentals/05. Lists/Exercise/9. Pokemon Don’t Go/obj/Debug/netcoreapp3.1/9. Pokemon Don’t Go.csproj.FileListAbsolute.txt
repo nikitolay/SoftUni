@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\bin\Debug\netcoreapp3.1\9. Pokemon Don’t Go.exe
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\bin\Debug\netcoreapp3.1\9. Pokemon Don’t Go.deps.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\bin\Debug\netcoreapp3.1\9. Pokemon Don’t Go.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\bin\Debug\netcoreapp3.1\9. Pokemon Don’t Go.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\bin\Debug\netcoreapp3.1\9. Pokemon Don’t Go.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\bin\Debug\netcoreapp3.1\9. Pokemon Don’t Go.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\obj\Debug\netcoreapp3.1\9. Pokemon Don’t Go.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\obj\Debug\netcoreapp3.1\9. Pokemon Don’t Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\obj\Debug\netcoreapp3.1\9. Pokemon Don’t Go.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\obj\Debug\netcoreapp3.1\9. Pokemon Don’t Go.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\obj\Debug\netcoreapp3.1\9. Pokemon Don’t Go.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\obj\Debug\netcoreapp3.1\9. Pokemon Don’t Go.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\obj\Debug\netcoreapp3.1\9. Pokemon Don’t Go.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\9. Pokemon Don’t Go\obj\Debug\netcoreapp3.1\9. Pokemon Don’t Go.genruntimeconfig.cache

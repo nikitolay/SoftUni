@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\bin\Debug\netcoreapp3.1\1. Train.exe
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\bin\Debug\netcoreapp3.1\1. Train.deps.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\bin\Debug\netcoreapp3.1\1. Train.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\bin\Debug\netcoreapp3.1\1. Train.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\bin\Debug\netcoreapp3.1\1. Train.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\bin\Debug\netcoreapp3.1\1. Train.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\obj\Debug\netcoreapp3.1\1. Train.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\obj\Debug\netcoreapp3.1\1. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\obj\Debug\netcoreapp3.1\1. Train.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\obj\Debug\netcoreapp3.1\1. Train.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\obj\Debug\netcoreapp3.1\1. Train.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\obj\Debug\netcoreapp3.1\1. Train.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\obj\Debug\netcoreapp3.1\1. Train.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\1. Train\obj\Debug\netcoreapp3.1\1. Train.genruntimeconfig.cache

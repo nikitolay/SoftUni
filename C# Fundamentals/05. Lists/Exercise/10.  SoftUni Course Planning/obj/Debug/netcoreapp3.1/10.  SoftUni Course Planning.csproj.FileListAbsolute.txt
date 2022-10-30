@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\bin\Debug\netcoreapp3.1\10.  SoftUni Course Planning.exe
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\bin\Debug\netcoreapp3.1\10.  SoftUni Course Planning.deps.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\bin\Debug\netcoreapp3.1\10.  SoftUni Course Planning.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\bin\Debug\netcoreapp3.1\10.  SoftUni Course Planning.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\bin\Debug\netcoreapp3.1\10.  SoftUni Course Planning.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\bin\Debug\netcoreapp3.1\10.  SoftUni Course Planning.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\obj\Debug\netcoreapp3.1\10.  SoftUni Course Planning.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\obj\Debug\netcoreapp3.1\10.  SoftUni Course Planning.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\obj\Debug\netcoreapp3.1\10.  SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\obj\Debug\netcoreapp3.1\10.  SoftUni Course Planning.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\obj\Debug\netcoreapp3.1\10.  SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\obj\Debug\netcoreapp3.1\10.  SoftUni Course Planning.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\obj\Debug\netcoreapp3.1\10.  SoftUni Course Planning.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\10.  SoftUni Course Planning\obj\Debug\netcoreapp3.1\10.  SoftUni Course Planning.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\bin\Debug\netcoreapp3.1\6. Cards Game.exe
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\bin\Debug\netcoreapp3.1\6. Cards Game.deps.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\bin\Debug\netcoreapp3.1\6. Cards Game.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\bin\Debug\netcoreapp3.1\6. Cards Game.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\bin\Debug\netcoreapp3.1\6. Cards Game.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\bin\Debug\netcoreapp3.1\6. Cards Game.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\obj\Debug\netcoreapp3.1\6. Cards Game.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\obj\Debug\netcoreapp3.1\6. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\obj\Debug\netcoreapp3.1\6. Cards Game.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\obj\Debug\netcoreapp3.1\6. Cards Game.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\obj\Debug\netcoreapp3.1\6. Cards Game.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\obj\Debug\netcoreapp3.1\6. Cards Game.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\obj\Debug\netcoreapp3.1\6. Cards Game.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\6. Cards Game\obj\Debug\netcoreapp3.1\6. Cards Game.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\bin\Debug\netcoreapp3.1\4. List Operations.exe
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\bin\Debug\netcoreapp3.1\4. List Operations.deps.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\bin\Debug\netcoreapp3.1\4. List Operations.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\bin\Debug\netcoreapp3.1\4. List Operations.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\bin\Debug\netcoreapp3.1\4. List Operations.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\bin\Debug\netcoreapp3.1\4. List Operations.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\obj\Debug\netcoreapp3.1\4. List Operations.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\obj\Debug\netcoreapp3.1\4. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\obj\Debug\netcoreapp3.1\4. List Operations.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\obj\Debug\netcoreapp3.1\4. List Operations.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\obj\Debug\netcoreapp3.1\4. List Operations.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\obj\Debug\netcoreapp3.1\4. List Operations.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\obj\Debug\netcoreapp3.1\4. List Operations.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\Exercise\4. List Operations\obj\Debug\netcoreapp3.1\4. List Operations.genruntimeconfig.cache
