@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\bin\Debug\netcoreapp3.1\3. Songs.exe
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\bin\Debug\netcoreapp3.1\3. Songs.deps.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\bin\Debug\netcoreapp3.1\3. Songs.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\bin\Debug\netcoreapp3.1\3. Songs.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\bin\Debug\netcoreapp3.1\3. Songs.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\bin\Debug\netcoreapp3.1\3. Songs.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\3. Songs\obj\Debug\netcoreapp3.1\3. Songs.genruntimeconfig.cache

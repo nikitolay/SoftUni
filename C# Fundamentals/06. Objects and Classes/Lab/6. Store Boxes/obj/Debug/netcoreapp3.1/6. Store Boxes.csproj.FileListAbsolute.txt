@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\bin\Debug\netcoreapp3.1\6. Store Boxes.exe
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\bin\Debug\netcoreapp3.1\6. Store Boxes.deps.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\bin\Debug\netcoreapp3.1\6. Store Boxes.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\bin\Debug\netcoreapp3.1\6. Store Boxes.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\bin\Debug\netcoreapp3.1\6. Store Boxes.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\bin\Debug\netcoreapp3.1\6. Store Boxes.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Lab\6. Store Boxes\obj\Debug\netcoreapp3.1\6. Store Boxes.genruntimeconfig.cache
