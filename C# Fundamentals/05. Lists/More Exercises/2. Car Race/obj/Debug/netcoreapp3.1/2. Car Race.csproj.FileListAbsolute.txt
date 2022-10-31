@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\bin\Debug\netcoreapp3.1\2. Car Race.exe
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\bin\Debug\netcoreapp3.1\2. Car Race.deps.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\bin\Debug\netcoreapp3.1\2. Car Race.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\bin\Debug\netcoreapp3.1\2. Car Race.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\bin\Debug\netcoreapp3.1\2. Car Race.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\bin\Debug\netcoreapp3.1\2. Car Race.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.genruntimeconfig.cache

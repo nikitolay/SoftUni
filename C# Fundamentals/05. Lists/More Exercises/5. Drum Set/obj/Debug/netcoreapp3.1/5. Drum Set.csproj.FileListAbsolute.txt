@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\bin\Debug\netcoreapp3.1\5. Drum Set.exe
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\bin\Debug\netcoreapp3.1\5. Drum Set.deps.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\bin\Debug\netcoreapp3.1\5. Drum Set.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\bin\Debug\netcoreapp3.1\5. Drum Set.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\bin\Debug\netcoreapp3.1\5. Drum Set.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\bin\Debug\netcoreapp3.1\5. Drum Set.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\obj\Debug\netcoreapp3.1\5. Drum Set.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\obj\Debug\netcoreapp3.1\5. Drum Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\obj\Debug\netcoreapp3.1\5. Drum Set.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\obj\Debug\netcoreapp3.1\5. Drum Set.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\obj\Debug\netcoreapp3.1\5. Drum Set.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\obj\Debug\netcoreapp3.1\5. Drum Set.dll
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\obj\Debug\netcoreapp3.1\5. Drum Set.pdb
+C:\git\SoftUni\C# Fundamentals\05. Lists\More Exercises\5. Drum Set\obj\Debug\netcoreapp3.1\5. Drum Set.genruntimeconfig.cache
