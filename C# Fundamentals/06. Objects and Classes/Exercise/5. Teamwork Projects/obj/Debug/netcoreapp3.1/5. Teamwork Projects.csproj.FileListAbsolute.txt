@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\bin\Debug\netcoreapp3.1\5. Teamwork Projects.exe
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\bin\Debug\netcoreapp3.1\5. Teamwork Projects.deps.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\bin\Debug\netcoreapp3.1\5. Teamwork Projects.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\bin\Debug\netcoreapp3.1\5. Teamwork Projects.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\bin\Debug\netcoreapp3.1\5. Teamwork Projects.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\bin\Debug\netcoreapp3.1\5. Teamwork Projects.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.genruntimeconfig.cache

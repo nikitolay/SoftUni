@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\bin\Debug\netcoreapp3.1\2. Articles.exe
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\bin\Debug\netcoreapp3.1\2. Articles.deps.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\bin\Debug\netcoreapp3.1\2. Articles.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\bin\Debug\netcoreapp3.1\2. Articles.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\bin\Debug\netcoreapp3.1\2. Articles.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\bin\Debug\netcoreapp3.1\2. Articles.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\2. Articles\obj\Debug\netcoreapp3.1\2. Articles.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\bin\Debug\netcoreapp3.1\7. Order by Age.exe
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\bin\Debug\netcoreapp3.1\7. Order by Age.deps.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\bin\Debug\netcoreapp3.1\7. Order by Age.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\bin\Debug\netcoreapp3.1\7. Order by Age.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\bin\Debug\netcoreapp3.1\7. Order by Age.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\bin\Debug\netcoreapp3.1\7. Order by Age.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.genruntimeconfig.cache
