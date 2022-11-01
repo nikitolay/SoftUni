@@ -32,7 +32,7 @@ namespace _10._SoftUni_Exam_Results
                 else
                 {
 
-                usernameWithPoints.Add(username, points);
+                    usernameWithPoints.Add(username, points);
                 }
                 if (languageMeetings.ContainsKey(language))
                 {
@@ -44,13 +44,13 @@ namespace _10._SoftUni_Exam_Results
 
                 }
             }
-                Console.WriteLine("Results:");
-            foreach (var item in usernameWithPoints.OrderByDescending(x=>x.Value))
+            Console.WriteLine("Results:");
+            foreach (var item in usernameWithPoints.OrderByDescending(x => x.Value))
             {
                 Console.WriteLine($"{item.Key} | {item.Value}");
             }
             Console.WriteLine("Submissions:");
-            foreach (var item in languageMeetings.OrderByDescending(x=>x.Value))
+            foreach (var item in languageMeetings.OrderByDescending(x => x.Value))
             {
                 Console.WriteLine($"{item.Key} – {item.Value}");
             }
