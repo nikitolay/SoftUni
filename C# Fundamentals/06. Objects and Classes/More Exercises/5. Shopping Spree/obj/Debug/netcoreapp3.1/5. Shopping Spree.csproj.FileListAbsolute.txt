@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\bin\Debug\netcoreapp3.1\5. Shopping Spree.exe
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\bin\Debug\netcoreapp3.1\5. Shopping Spree.deps.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\bin\Debug\netcoreapp3.1\5. Shopping Spree.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\bin\Debug\netcoreapp3.1\5. Shopping Spree.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\bin\Debug\netcoreapp3.1\5. Shopping Spree.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\bin\Debug\netcoreapp3.1\5. Shopping Spree.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\5. Shopping Spree\obj\Debug\netcoreapp3.1\5. Shopping Spree.genruntimeconfig.cache

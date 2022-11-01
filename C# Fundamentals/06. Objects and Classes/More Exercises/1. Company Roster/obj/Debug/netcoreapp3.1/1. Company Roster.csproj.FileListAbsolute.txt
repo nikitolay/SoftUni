@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\bin\Debug\netcoreapp3.1\1. Company Roster.exe
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\bin\Debug\netcoreapp3.1\1. Company Roster.deps.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\bin\Debug\netcoreapp3.1\1. Company Roster.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\bin\Debug\netcoreapp3.1\1. Company Roster.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\bin\Debug\netcoreapp3.1\1. Company Roster.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\bin\Debug\netcoreapp3.1\1. Company Roster.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\obj\Debug\netcoreapp3.1\1. Company Roster.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\obj\Debug\netcoreapp3.1\1. Company Roster.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\obj\Debug\netcoreapp3.1\1. Company Roster.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\obj\Debug\netcoreapp3.1\1. Company Roster.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\obj\Debug\netcoreapp3.1\1. Company Roster.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\obj\Debug\netcoreapp3.1\1. Company Roster.dll
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\obj\Debug\netcoreapp3.1\1. Company Roster.pdb
+C:\git\SoftUni\C# Fundamentals\06. Objects and Classes\More Exercises\1. Company Roster\obj\Debug\netcoreapp3.1\1. Company Roster.genruntimeconfig.cache
