@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\bin\Debug\netcoreapp3.1\4. Largest 3 Numbers.exe
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\bin\Debug\netcoreapp3.1\4. Largest 3 Numbers.deps.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\bin\Debug\netcoreapp3.1\4. Largest 3 Numbers.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\bin\Debug\netcoreapp3.1\4. Largest 3 Numbers.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\bin\Debug\netcoreapp3.1\4. Largest 3 Numbers.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\bin\Debug\netcoreapp3.1\4. Largest 3 Numbers.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\obj\Debug\netcoreapp3.1\4. Largest 3 Numbers.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\obj\Debug\netcoreapp3.1\4. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\obj\Debug\netcoreapp3.1\4. Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\obj\Debug\netcoreapp3.1\4. Largest 3 Numbers.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\obj\Debug\netcoreapp3.1\4. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\obj\Debug\netcoreapp3.1\4. Largest 3 Numbers.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\obj\Debug\netcoreapp3.1\4. Largest 3 Numbers.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\4. Largest 3 Numbers\obj\Debug\netcoreapp3.1\4. Largest 3 Numbers.genruntimeconfig.cache

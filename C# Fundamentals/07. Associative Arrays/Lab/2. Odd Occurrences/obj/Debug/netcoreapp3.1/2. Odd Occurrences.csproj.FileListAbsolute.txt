@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.exe
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.deps.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.genruntimeconfig.cache
