@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.exe
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.deps.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.genruntimeconfig.cache

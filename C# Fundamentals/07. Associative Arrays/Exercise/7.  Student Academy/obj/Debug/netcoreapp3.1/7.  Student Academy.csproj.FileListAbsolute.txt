@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\bin\Debug\netcoreapp3.1\7.  Student Academy.exe
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\bin\Debug\netcoreapp3.1\7.  Student Academy.deps.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\bin\Debug\netcoreapp3.1\7.  Student Academy.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\bin\Debug\netcoreapp3.1\7.  Student Academy.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\bin\Debug\netcoreapp3.1\7.  Student Academy.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\bin\Debug\netcoreapp3.1\7.  Student Academy.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\7.  Student Academy\obj\Debug\netcoreapp3.1\7.  Student Academy.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.exe
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.deps.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\bin\Debug\netcoreapp3.1\3. Legendary Farming.exe
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\bin\Debug\netcoreapp3.1\3. Legendary Farming.deps.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\bin\Debug\netcoreapp3.1\3. Legendary Farming.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\bin\Debug\netcoreapp3.1\3. Legendary Farming.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\bin\Debug\netcoreapp3.1\3. Legendary Farming.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\bin\Debug\netcoreapp3.1\3. Legendary Farming.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\obj\Debug\netcoreapp3.1\3. Legendary Farming.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\obj\Debug\netcoreapp3.1\3. Legendary Farming.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\obj\Debug\netcoreapp3.1\3. Legendary Farming.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\obj\Debug\netcoreapp3.1\3. Legendary Farming.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\obj\Debug\netcoreapp3.1\3. Legendary Farming.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\obj\Debug\netcoreapp3.1\3. Legendary Farming.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\obj\Debug\netcoreapp3.1\3. Legendary Farming.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\Exercise\3. Legendary Farming\obj\Debug\netcoreapp3.1\3. Legendary Farming.genruntimeconfig.cache
