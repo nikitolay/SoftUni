@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\bin\Debug\netcoreapp3.1\4. Snowwhite.exe
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\bin\Debug\netcoreapp3.1\4. Snowwhite.deps.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\bin\Debug\netcoreapp3.1\4. Snowwhite.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\bin\Debug\netcoreapp3.1\4. Snowwhite.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\bin\Debug\netcoreapp3.1\4. Snowwhite.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\bin\Debug\netcoreapp3.1\4. Snowwhite.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\obj\Debug\netcoreapp3.1\4. Snowwhite.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\obj\Debug\netcoreapp3.1\4. Snowwhite.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\obj\Debug\netcoreapp3.1\4. Snowwhite.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\obj\Debug\netcoreapp3.1\4. Snowwhite.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\obj\Debug\netcoreapp3.1\4. Snowwhite.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\obj\Debug\netcoreapp3.1\4. Snowwhite.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\obj\Debug\netcoreapp3.1\4. Snowwhite.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\4. Snowwhite\obj\Debug\netcoreapp3.1\4. Snowwhite.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\bin\Debug\netcoreapp3.1\2. Judge.exe
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\bin\Debug\netcoreapp3.1\2. Judge.deps.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\bin\Debug\netcoreapp3.1\2. Judge.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\bin\Debug\netcoreapp3.1\2. Judge.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\bin\Debug\netcoreapp3.1\2. Judge.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\bin\Debug\netcoreapp3.1\2. Judge.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\obj\Debug\netcoreapp3.1\2. Judge.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\obj\Debug\netcoreapp3.1\2. Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\obj\Debug\netcoreapp3.1\2. Judge.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\obj\Debug\netcoreapp3.1\2. Judge.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\obj\Debug\netcoreapp3.1\2. Judge.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\obj\Debug\netcoreapp3.1\2. Judge.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\obj\Debug\netcoreapp3.1\2. Judge.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\2. Judge\obj\Debug\netcoreapp3.1\2. Judge.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\bin\Debug\netcoreapp3.1\1. Ranking.exe
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\bin\Debug\netcoreapp3.1\1. Ranking.deps.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\bin\Debug\netcoreapp3.1\1. Ranking.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\bin\Debug\netcoreapp3.1\1. Ranking.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\bin\Debug\netcoreapp3.1\1. Ranking.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\bin\Debug\netcoreapp3.1\1. Ranking.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.genruntimeconfig.cache
