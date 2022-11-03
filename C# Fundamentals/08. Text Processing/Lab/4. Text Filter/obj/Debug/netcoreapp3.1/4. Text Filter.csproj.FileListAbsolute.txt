@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\bin\Debug\netcoreapp3.1\4. Text Filter.exe
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\bin\Debug\netcoreapp3.1\4. Text Filter.deps.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\bin\Debug\netcoreapp3.1\4. Text Filter.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\bin\Debug\netcoreapp3.1\4. Text Filter.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\bin\Debug\netcoreapp3.1\4. Text Filter.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\bin\Debug\netcoreapp3.1\4. Text Filter.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\4. Text Filter\obj\Debug\netcoreapp3.1\4. Text Filter.genruntimeconfig.cache

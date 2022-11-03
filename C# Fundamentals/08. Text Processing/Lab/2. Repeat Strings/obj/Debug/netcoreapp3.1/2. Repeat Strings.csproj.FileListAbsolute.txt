@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\bin\Debug\netcoreapp3.1\2. Repeat Strings.exe
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\bin\Debug\netcoreapp3.1\2. Repeat Strings.deps.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\bin\Debug\netcoreapp3.1\2. Repeat Strings.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\bin\Debug\netcoreapp3.1\2. Repeat Strings.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\bin\Debug\netcoreapp3.1\2. Repeat Strings.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\bin\Debug\netcoreapp3.1\2. Repeat Strings.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Lab\2. Repeat Strings\obj\Debug\netcoreapp3.1\2. Repeat Strings.genruntimeconfig.cache
