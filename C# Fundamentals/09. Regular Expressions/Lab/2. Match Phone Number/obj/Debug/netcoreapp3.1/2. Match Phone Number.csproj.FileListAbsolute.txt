@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\bin\Debug\netcoreapp3.1\2. Match Phone Number.exe
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\bin\Debug\netcoreapp3.1\2. Match Phone Number.deps.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\bin\Debug\netcoreapp3.1\2. Match Phone Number.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\bin\Debug\netcoreapp3.1\2. Match Phone Number.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\bin\Debug\netcoreapp3.1\2. Match Phone Number.dll
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\bin\Debug\netcoreapp3.1\2. Match Phone Number.pdb
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.dll
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.pdb
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\2. Match Phone Number\obj\Debug\netcoreapp3.1\2. Match Phone Number.genruntimeconfig.cache

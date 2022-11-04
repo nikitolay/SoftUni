@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.exe
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.deps.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.dll
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\bin\Debug\netcoreapp3.1\1. Match Full Name.pdb
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.dll
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.pdb
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Lab\1. Match Full Name\obj\Debug\netcoreapp3.1\1. Match Full Name.genruntimeconfig.cache
