@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\bin\Debug\netcoreapp3.1\5. HTML.exe
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\bin\Debug\netcoreapp3.1\5. HTML.deps.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\bin\Debug\netcoreapp3.1\5. HTML.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\bin\Debug\netcoreapp3.1\5. HTML.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\bin\Debug\netcoreapp3.1\5. HTML.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\bin\Debug\netcoreapp3.1\5. HTML.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.exe
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.deps.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\More Exercise\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.genruntimeconfig.cache
