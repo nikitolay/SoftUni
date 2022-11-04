@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\bin\Debug\netcoreapp3.1\8.  Letters Change Numbers.exe
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\bin\Debug\netcoreapp3.1\8.  Letters Change Numbers.deps.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\bin\Debug\netcoreapp3.1\8.  Letters Change Numbers.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\bin\Debug\netcoreapp3.1\8.  Letters Change Numbers.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\bin\Debug\netcoreapp3.1\8.  Letters Change Numbers.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\bin\Debug\netcoreapp3.1\8.  Letters Change Numbers.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\obj\Debug\netcoreapp3.1\8.  Letters Change Numbers.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\obj\Debug\netcoreapp3.1\8.  Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\obj\Debug\netcoreapp3.1\8.  Letters Change Numbers.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\obj\Debug\netcoreapp3.1\8.  Letters Change Numbers.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\obj\Debug\netcoreapp3.1\8.  Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\obj\Debug\netcoreapp3.1\8.  Letters Change Numbers.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\obj\Debug\netcoreapp3.1\8.  Letters Change Numbers.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\8.  Letters Change Numbers\obj\Debug\netcoreapp3.1\8.  Letters Change Numbers.genruntimeconfig.cache
