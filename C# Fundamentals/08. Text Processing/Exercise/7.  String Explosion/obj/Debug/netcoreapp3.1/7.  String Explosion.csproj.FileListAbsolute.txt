@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\bin\Debug\netcoreapp3.1\7.  String Explosion.exe
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\bin\Debug\netcoreapp3.1\7.  String Explosion.deps.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\bin\Debug\netcoreapp3.1\7.  String Explosion.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\bin\Debug\netcoreapp3.1\7.  String Explosion.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\bin\Debug\netcoreapp3.1\7.  String Explosion.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\bin\Debug\netcoreapp3.1\7.  String Explosion.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\obj\Debug\netcoreapp3.1\7.  String Explosion.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\obj\Debug\netcoreapp3.1\7.  String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\obj\Debug\netcoreapp3.1\7.  String Explosion.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\obj\Debug\netcoreapp3.1\7.  String Explosion.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\obj\Debug\netcoreapp3.1\7.  String Explosion.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\obj\Debug\netcoreapp3.1\7.  String Explosion.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\obj\Debug\netcoreapp3.1\7.  String Explosion.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\7.  String Explosion\obj\Debug\netcoreapp3.1\7.  String Explosion.genruntimeconfig.cache

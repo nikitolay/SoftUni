@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\bin\Debug\netcoreapp3.1\2.  Character Multiplier.exe
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\bin\Debug\netcoreapp3.1\2.  Character Multiplier.deps.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\bin\Debug\netcoreapp3.1\2.  Character Multiplier.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\bin\Debug\netcoreapp3.1\2.  Character Multiplier.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\bin\Debug\netcoreapp3.1\2.  Character Multiplier.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\bin\Debug\netcoreapp3.1\2.  Character Multiplier.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\2.  Character Multiplier\obj\Debug\netcoreapp3.1\2.  Character Multiplier.genruntimeconfig.cache

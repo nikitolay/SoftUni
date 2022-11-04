@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\bin\Debug\netcoreapp3.1\3.  Extract File.exe
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\bin\Debug\netcoreapp3.1\3.  Extract File.deps.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\bin\Debug\netcoreapp3.1\3.  Extract File.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\bin\Debug\netcoreapp3.1\3.  Extract File.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\bin\Debug\netcoreapp3.1\3.  Extract File.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\bin\Debug\netcoreapp3.1\3.  Extract File.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\obj\Debug\netcoreapp3.1\3.  Extract File.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\obj\Debug\netcoreapp3.1\3.  Extract File.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\obj\Debug\netcoreapp3.1\3.  Extract File.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\obj\Debug\netcoreapp3.1\3.  Extract File.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\obj\Debug\netcoreapp3.1\3.  Extract File.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\obj\Debug\netcoreapp3.1\3.  Extract File.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\obj\Debug\netcoreapp3.1\3.  Extract File.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\3.  Extract File\obj\Debug\netcoreapp3.1\3.  Extract File.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\bin\Debug\netcoreapp3.1\1.  Valid Usernames.exe
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\bin\Debug\netcoreapp3.1\1.  Valid Usernames.deps.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\bin\Debug\netcoreapp3.1\1.  Valid Usernames.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\bin\Debug\netcoreapp3.1\1.  Valid Usernames.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\bin\Debug\netcoreapp3.1\1.  Valid Usernames.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\bin\Debug\netcoreapp3.1\1.  Valid Usernames.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\obj\Debug\netcoreapp3.1\1.  Valid Usernames.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\obj\Debug\netcoreapp3.1\1.  Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\obj\Debug\netcoreapp3.1\1.  Valid Usernames.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\obj\Debug\netcoreapp3.1\1.  Valid Usernames.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\obj\Debug\netcoreapp3.1\1.  Valid Usernames.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\obj\Debug\netcoreapp3.1\1.  Valid Usernames.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\obj\Debug\netcoreapp3.1\1.  Valid Usernames.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\1.  Valid Usernames\obj\Debug\netcoreapp3.1\1.  Valid Usernames.genruntimeconfig.cache

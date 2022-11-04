@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars.exe
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars.deps.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.dll
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.pdb
+C:\git\SoftUni\C# Fundamentals\08. Text Processing\Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.genruntimeconfig.cache
