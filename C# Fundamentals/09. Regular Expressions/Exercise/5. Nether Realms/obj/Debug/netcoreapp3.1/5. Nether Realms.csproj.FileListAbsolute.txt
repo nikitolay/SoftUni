@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\bin\Debug\netcoreapp3.1\5. Nether Realms.exe
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\bin\Debug\netcoreapp3.1\5. Nether Realms.deps.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\bin\Debug\netcoreapp3.1\5. Nether Realms.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\bin\Debug\netcoreapp3.1\5. Nether Realms.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\bin\Debug\netcoreapp3.1\5. Nether Realms.dll
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\bin\Debug\netcoreapp3.1\5. Nether Realms.pdb
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.dll
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.pdb
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\5. Nether Realms\obj\Debug\netcoreapp3.1\5. Nether Realms.genruntimeconfig.cache

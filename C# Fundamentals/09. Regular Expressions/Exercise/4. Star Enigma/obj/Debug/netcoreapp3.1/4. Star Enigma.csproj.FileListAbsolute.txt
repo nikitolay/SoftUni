@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\bin\Debug\netcoreapp3.1\4. Star Enigma.exe
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\bin\Debug\netcoreapp3.1\4. Star Enigma.deps.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\bin\Debug\netcoreapp3.1\4. Star Enigma.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\bin\Debug\netcoreapp3.1\4. Star Enigma.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\bin\Debug\netcoreapp3.1\4. Star Enigma.dll
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\bin\Debug\netcoreapp3.1\4. Star Enigma.pdb
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.dll
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.pdb
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.genruntimeconfig.cache

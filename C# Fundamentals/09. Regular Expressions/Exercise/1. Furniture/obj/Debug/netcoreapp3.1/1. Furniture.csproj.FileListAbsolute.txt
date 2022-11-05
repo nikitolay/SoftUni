@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.exe
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.deps.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.dll
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.pdb
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.dll
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.pdb
+C:\git\SoftUni\C# Fundamentals\09. Regular Expressions\Exercise\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.genruntimeconfig.cache
