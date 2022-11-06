@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\bin\Debug\netcoreapp3.1\3 - Plant Discovery.exe
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\bin\Debug\netcoreapp3.1\3 - Plant Discovery.deps.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\bin\Debug\netcoreapp3.1\3 - Plant Discovery.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\bin\Debug\netcoreapp3.1\3 - Plant Discovery.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\bin\Debug\netcoreapp3.1\3 - Plant Discovery.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\bin\Debug\netcoreapp3.1\3 - Plant Discovery.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\obj\Debug\netcoreapp3.1\3 - Plant Discovery.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\obj\Debug\netcoreapp3.1\3 - Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\obj\Debug\netcoreapp3.1\3 - Plant Discovery.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\obj\Debug\netcoreapp3.1\3 - Plant Discovery.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\obj\Debug\netcoreapp3.1\3 - Plant Discovery.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\obj\Debug\netcoreapp3.1\3 - Plant Discovery.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\obj\Debug\netcoreapp3.1\3 - Plant Discovery.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\3 - Plant Discovery\obj\Debug\netcoreapp3.1\3 - Plant Discovery.genruntimeconfig.cache

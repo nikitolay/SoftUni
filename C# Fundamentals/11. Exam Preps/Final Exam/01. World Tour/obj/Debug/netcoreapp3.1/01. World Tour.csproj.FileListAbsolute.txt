@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.exe
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.deps.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.genruntimeconfig.cache
