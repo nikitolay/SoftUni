@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\bin\Debug\netcoreapp3.1\3 - The Pianist.exe
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\bin\Debug\netcoreapp3.1\3 - The Pianist.deps.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\bin\Debug\netcoreapp3.1\3 - The Pianist.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\bin\Debug\netcoreapp3.1\3 - The Pianist.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\bin\Debug\netcoreapp3.1\3 - The Pianist.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\bin\Debug\netcoreapp3.1\3 - The Pianist.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\obj\Debug\netcoreapp3.1\3 - The Pianist.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\obj\Debug\netcoreapp3.1\3 - The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\obj\Debug\netcoreapp3.1\3 - The Pianist.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\obj\Debug\netcoreapp3.1\3 - The Pianist.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\obj\Debug\netcoreapp3.1\3 - The Pianist.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\obj\Debug\netcoreapp3.1\3 - The Pianist.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\obj\Debug\netcoreapp3.1\3 - The Pianist.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\3 - The Pianist\obj\Debug\netcoreapp3.1\3 - The Pianist.genruntimeconfig.cache

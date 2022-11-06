@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.exe
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.deps.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Exam Retake\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.genruntimeconfig.cache
