@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\bin\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.exe
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\bin\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.deps.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\bin\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\bin\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\bin\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\bin\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 3 - Heart Delivery\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.genruntimeconfig.cache

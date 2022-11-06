@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\bin\Debug\netcoreapp3.1\Problem 2. Mu Online.exe
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\bin\Debug\netcoreapp3.1\Problem 2. Mu Online.deps.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\bin\Debug\netcoreapp3.1\Problem 2. Mu Online.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\bin\Debug\netcoreapp3.1\Problem 2. Mu Online.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\bin\Debug\netcoreapp3.1\Problem 2. Mu Online.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\bin\Debug\netcoreapp3.1\Problem 2. Mu Online.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\obj\Debug\netcoreapp3.1\Problem 2. Mu Online.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\obj\Debug\netcoreapp3.1\Problem 2. Mu Online.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\obj\Debug\netcoreapp3.1\Problem 2. Mu Online.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\obj\Debug\netcoreapp3.1\Problem 2. Mu Online.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\obj\Debug\netcoreapp3.1\Problem 2. Mu Online.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\obj\Debug\netcoreapp3.1\Problem 2. Mu Online.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\obj\Debug\netcoreapp3.1\Problem 2. Mu Online.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 2. Mu Online\obj\Debug\netcoreapp3.1\Problem 2. Mu Online.genruntimeconfig.cache

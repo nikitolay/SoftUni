@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\bin\Debug\netcoreapp3.1\Problem 1 - Black Flag.exe
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\bin\Debug\netcoreapp3.1\Problem 1 - Black Flag.deps.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\bin\Debug\netcoreapp3.1\Problem 1 - Black Flag.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\bin\Debug\netcoreapp3.1\Problem 1 - Black Flag.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\bin\Debug\netcoreapp3.1\Problem 1 - Black Flag.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\bin\Debug\netcoreapp3.1\Problem 1 - Black Flag.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\obj\Debug\netcoreapp3.1\Problem 1 - Black Flag.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\obj\Debug\netcoreapp3.1\Problem 1 - Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\obj\Debug\netcoreapp3.1\Problem 1 - Black Flag.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\obj\Debug\netcoreapp3.1\Problem 1 - Black Flag.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\obj\Debug\netcoreapp3.1\Problem 1 - Black Flag.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\obj\Debug\netcoreapp3.1\Problem 1 - Black Flag.dll
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\obj\Debug\netcoreapp3.1\Problem 1 - Black Flag.pdb
+C:\git\SoftUni\C# Fundamentals\11. Exam Preps\Mid-Exam-Preparation\Problem 1 - Black Flag\obj\Debug\netcoreapp3.1\Problem 1 - Black Flag.genruntimeconfig.cache
