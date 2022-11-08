@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.exe
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.deps.json
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.dll
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.pdb
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.dll
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.pdb
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.genruntimeconfig.cache
