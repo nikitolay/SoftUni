@@ -8,18 +8,14 @@ namespace ExpressionWithStack
     {
         static void Main(string[] args)
         {
-            var expression = "3/3*0";
-            //ne poddurja 2 + -3       ako imame poweche operatori otkolkoto chisla//ako ne ni stigat chislata da si napravim operaciite//vinagi trqbwa d aimame edin chislo poweche otkolkoto operacii
+            var expression = "2+7^2+(4^2)-60+2+19*2";//47
+
             var result = Evaluate(expression);
             Console.WriteLine(result);
-
-
-
-
         }
         static double Evaluate(string expression)
         {
-            var allowedOperators = "+-/*";//TODO: pow ^
+            var allowedOperators = "+-/*^";
             var numbers = new Stack<double>();
             var operators = new Stack<char>();//operacii
 
@@ -45,13 +41,28 @@ namespace ExpressionWithStack
                 }
                 else if (allowedOperators.Contains(@char))
                 {
+
                     while (operators.Count > 0 && Priority(operators.Peek()) >= Priority(@char))//ako ima operatori s po-visok prioritet ot dadeniq (char)
                     {
-                        var op = operators.Pop();//vzemame operatora i go prilagame vurhu poslednite dwe natrupani chisla
-                        var param2 = numbers.Pop();
-                        var param1 = numbers.Pop();
+                        char op = ' ';
+                        var param2 = 0.0;
+                        var param1 = 0.0;
+
+                        if (operators.Count + 1 <= numbers.Count)
+                        {
+                            op = operators.Pop();//vzemame operatora i go prilagame vurhu poslednite dwe natrupani chisla
+
+                            param2 = numbers.Pop();
+                            param1 = numbers.Pop();
+                        }
+
+
                         var newValue = ApplyOperations(op, param1, param2);
+
                         numbers.Push(newValue);
+
+
+
                     }
                     operators.Push(@char);
                 }
@@ -67,14 +78,14 @@ namespace ExpressionWithStack
                             break;
                         }
                         @char = expression[i];
-                        
+
                     }
-                    i --;
+                    i--;
                     numbers.Push(double.Parse(number.ToString()));
                 }
 
             }
-            while (operators.Count>0)
+            while (operators.Count > 0)
             {
                 var op = operators.Pop();
                 var param2 = numbers.Pop();
@@ -92,6 +103,7 @@ namespace ExpressionWithStack
                 case '-': return operand1 - operand2;
                 case '*': return operand1 * operand2;
                 case '/': return operand1 / operand2;
+                case '^': return Math.Pow(operand1, operand2);
                 default: return 0.0;
 
             }
@@ -104,6 +116,7 @@ namespace ExpressionWithStack
                 case '-': return 1;
                 case '*': return 2;
                 case '/': return 2;
+                case '^': return 3;
                 default: return 0;
 
             }
