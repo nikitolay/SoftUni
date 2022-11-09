@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\bin\Debug\netcoreapp3.1\5. Dragon Army.exe
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\bin\Debug\netcoreapp3.1\5. Dragon Army.deps.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\bin\Debug\netcoreapp3.1\5. Dragon Army.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\bin\Debug\netcoreapp3.1\5. Dragon Army.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\bin\Debug\netcoreapp3.1\5. Dragon Army.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\bin\Debug\netcoreapp3.1\5. Dragon Army.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\obj\Debug\netcoreapp3.1\5. Dragon Army.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\obj\Debug\netcoreapp3.1\5. Dragon Army.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\obj\Debug\netcoreapp3.1\5. Dragon Army.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\obj\Debug\netcoreapp3.1\5. Dragon Army.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\obj\Debug\netcoreapp3.1\5. Dragon Army.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\obj\Debug\netcoreapp3.1\5. Dragon Army.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\obj\Debug\netcoreapp3.1\5. Dragon Army.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army\obj\Debug\netcoreapp3.1\5. Dragon Army.genruntimeconfig.cache

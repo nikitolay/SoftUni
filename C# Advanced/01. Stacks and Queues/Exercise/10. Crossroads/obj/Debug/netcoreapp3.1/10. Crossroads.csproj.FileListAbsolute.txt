@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.exe
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.deps.json
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.dll
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.pdb
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.dll
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.pdb
+C:\git\SoftUni\C# Advanced\01. Stacks and Queues\Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.genruntimeconfig.cache

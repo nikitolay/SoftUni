@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\bin\Debug\netcoreapp3.1\5. Dragon Army - second variant.exe
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\bin\Debug\netcoreapp3.1\5. Dragon Army - second variant.deps.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\bin\Debug\netcoreapp3.1\5. Dragon Army - second variant.runtimeconfig.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\bin\Debug\netcoreapp3.1\5. Dragon Army - second variant.runtimeconfig.dev.json
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\bin\Debug\netcoreapp3.1\5. Dragon Army - second variant.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\bin\Debug\netcoreapp3.1\5. Dragon Army - second variant.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\obj\Debug\netcoreapp3.1\5. Dragon Army - second variant.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\obj\Debug\netcoreapp3.1\5. Dragon Army - second variant.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\obj\Debug\netcoreapp3.1\5. Dragon Army - second variant.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\obj\Debug\netcoreapp3.1\5. Dragon Army - second variant.AssemblyInfo.cs
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\obj\Debug\netcoreapp3.1\5. Dragon Army - second variant.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\obj\Debug\netcoreapp3.1\5. Dragon Army - second variant.dll
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\obj\Debug\netcoreapp3.1\5. Dragon Army - second variant.pdb
+C:\git\SoftUni\C# Fundamentals\07. Associative Arrays\More Exercise\5. Dragon Army - second variant\obj\Debug\netcoreapp3.1\5. Dragon Army - second variant.genruntimeconfig.cache
