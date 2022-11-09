@@ -76,7 +76,7 @@ namespace _5._Dragon_Army___second_variant
             return result.ToString();
         }
 
-        private static void AddDragons(StringBuilder result, Dictionary<string, Dragon> dragonsByName)
+        private void AddDragons(StringBuilder result, Dictionary<string, Dragon> dragonsByName)
         {
             foreach (KeyValuePair<string, Dragon> dragonAndName in dragonsByName.OrderBy(x=>x.Key))
             {
@@ -88,7 +88,7 @@ namespace _5._Dragon_Army___second_variant
             
         }
 
-        private static string GetTypeFormat(string type, Dictionary<string, Dragon> dragonsByName)
+        private string GetTypeFormat(string type, Dictionary<string, Dragon> dragonsByName)
         {
             double dragonsCount = dragonsByName.Count;
             double averageDamage = GetAverage(dragonsByName, d => d.Damage, dragonsCount);
@@ -98,7 +98,7 @@ namespace _5._Dragon_Army___second_variant
             return formatted;
         }
 
-        private static double GetAverage(Dictionary<string, Dragon> dragonsByName, Func<Dragon, int> selector, double dragonsCount)
+        private double GetAverage(Dictionary<string, Dragon> dragonsByName, Func<Dragon, int> selector, double dragonsCount)
         {
            return dragonsByName.Sum(d => selector(d.Value)) / dragonsCount;
         }
