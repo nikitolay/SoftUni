@@ -17,7 +17,7 @@ namespace ConsoleMVC.Controllers
             display = new Display();
             tip = new Tip(display.Amount, display.Percent);
             display.TipAmount = tip.CalculateTip();
-            display.Total=tip.CalculateTotal();
+            display.Total = tip.CalculateTotal();
             display.ShowTipAndTotal();
         }
     }

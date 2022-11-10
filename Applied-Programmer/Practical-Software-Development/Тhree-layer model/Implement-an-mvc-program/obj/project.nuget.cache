@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3LiiwMhlc5xhbnzpqzf+5rM0gh0/vjDyRI0Tb8ZkZkPUm2VvCLcY4EH6q/4aUoESMM7geCkA2hpc4CJ1pON5ZQ==",
+  "dgSpecHash": "6rhmR10un6fmXdwGrbeihJV8sKA58JKMxoiRdepfeYktuU74mtVxhcfoc95KEiCV57nR7JevRDRsSU6UNgxHCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\11g\\Desktop\\Practical-Software-Development\\Тhree-layer model\\Implement-an-mvc-program\\Implement-an-mvc-program.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\11g\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\git\\SoftUni\\Applied-Programmer\\Practical-Software-Development\\Тhree-layer model\\Implement-an-mvc-program\\Implement-an-mvc-program.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

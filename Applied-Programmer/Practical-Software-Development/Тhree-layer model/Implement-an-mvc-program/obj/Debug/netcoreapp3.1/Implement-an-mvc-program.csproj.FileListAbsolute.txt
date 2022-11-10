@@ -12,3 +12,17 @@ C:\Users\11g\Desktop\Practical-Software-Development\Тhree-layer model\Implement
 C:\Users\11g\Desktop\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\obj\Debug\netcoreapp3.1\Implement-an-mvc-program.dll
 C:\Users\11g\Desktop\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\obj\Debug\netcoreapp3.1\Implement-an-mvc-program.pdb
 C:\Users\11g\Desktop\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\obj\Debug\netcoreapp3.1\Implement-an-mvc-program.genruntimeconfig.cache
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\bin\Debug\netcoreapp3.1\Implement-an-mvc-program.exe
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\bin\Debug\netcoreapp3.1\Implement-an-mvc-program.deps.json
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\bin\Debug\netcoreapp3.1\Implement-an-mvc-program.runtimeconfig.json
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\bin\Debug\netcoreapp3.1\Implement-an-mvc-program.runtimeconfig.dev.json
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\bin\Debug\netcoreapp3.1\Implement-an-mvc-program.dll
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\bin\Debug\netcoreapp3.1\Implement-an-mvc-program.pdb
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\obj\Debug\netcoreapp3.1\Implement-an-mvc-program.csproj.AssemblyReference.cache
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\obj\Debug\netcoreapp3.1\Implement-an-mvc-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\obj\Debug\netcoreapp3.1\Implement-an-mvc-program.AssemblyInfoInputs.cache
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\obj\Debug\netcoreapp3.1\Implement-an-mvc-program.AssemblyInfo.cs
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\obj\Debug\netcoreapp3.1\Implement-an-mvc-program.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\obj\Debug\netcoreapp3.1\Implement-an-mvc-program.dll
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\obj\Debug\netcoreapp3.1\Implement-an-mvc-program.pdb
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\Implement-an-mvc-program\obj\Debug\netcoreapp3.1\Implement-an-mvc-program.genruntimeconfig.cache
