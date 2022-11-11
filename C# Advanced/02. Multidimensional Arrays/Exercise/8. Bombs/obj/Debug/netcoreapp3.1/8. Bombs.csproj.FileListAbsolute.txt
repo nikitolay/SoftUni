@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.exe
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.deps.json
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.dll
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.pdb
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.dll
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.pdb
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.genruntimeconfig.cache

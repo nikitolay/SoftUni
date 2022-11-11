@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\bin\Debug\netcoreapp3.1\9. Miner.exe
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\bin\Debug\netcoreapp3.1\9. Miner.deps.json
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\bin\Debug\netcoreapp3.1\9. Miner.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\bin\Debug\netcoreapp3.1\9. Miner.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\bin\Debug\netcoreapp3.1\9. Miner.dll
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\bin\Debug\netcoreapp3.1\9. Miner.pdb
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.dll
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.pdb
+C:\git\SoftUni\C# Advanced\02. Multidimensional Arrays\Exercise\9. Miner\obj\Debug\netcoreapp3.1\9. Miner.genruntimeconfig.cache
