@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols.exe
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols.deps.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols.dll
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols.pdb
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.dll
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.pdb
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.genruntimeconfig.cache

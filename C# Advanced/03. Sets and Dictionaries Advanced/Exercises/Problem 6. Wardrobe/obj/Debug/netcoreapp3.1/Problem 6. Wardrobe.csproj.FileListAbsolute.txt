@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\bin\Debug\netcoreapp3.1\Problem 6. Wardrobe.exe
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\bin\Debug\netcoreapp3.1\Problem 6. Wardrobe.deps.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\bin\Debug\netcoreapp3.1\Problem 6. Wardrobe.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\bin\Debug\netcoreapp3.1\Problem 6. Wardrobe.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\bin\Debug\netcoreapp3.1\Problem 6. Wardrobe.dll
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\bin\Debug\netcoreapp3.1\Problem 6. Wardrobe.pdb
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe.dll
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe.pdb
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 6. Wardrobe\obj\Debug\netcoreapp3.1\Problem 6. Wardrobe.genruntimeconfig.cache

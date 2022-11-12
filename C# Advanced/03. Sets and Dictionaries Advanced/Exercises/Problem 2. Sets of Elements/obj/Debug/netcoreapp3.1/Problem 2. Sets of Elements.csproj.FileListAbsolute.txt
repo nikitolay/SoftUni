@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements.exe
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements.deps.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements.dll
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements.pdb
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.dll
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.pdb
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Exercises\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.genruntimeconfig.cache
