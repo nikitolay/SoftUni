@@ -1,0 +1,18 @@
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\bin\Debug\netcoreapp3.1\Streams, Files and Directories.exe
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\bin\Debug\netcoreapp3.1\copyMe.png
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\bin\Debug\netcoreapp3.1\expectedResult.txt
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\bin\Debug\netcoreapp3.1\text.txt
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\bin\Debug\netcoreapp3.1\words.txt
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\bin\Debug\netcoreapp3.1\Streams, Files and Directories.deps.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\bin\Debug\netcoreapp3.1\Streams, Files and Directories.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\bin\Debug\netcoreapp3.1\Streams, Files and Directories.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\bin\Debug\netcoreapp3.1\Streams, Files and Directories.dll
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\bin\Debug\netcoreapp3.1\Streams, Files and Directories.pdb
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\obj\Debug\netcoreapp3.1\Streams, Files and Directories.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\obj\Debug\netcoreapp3.1\Streams, Files and Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\obj\Debug\netcoreapp3.1\Streams, Files and Directories.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\obj\Debug\netcoreapp3.1\Streams, Files and Directories.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\obj\Debug\netcoreapp3.1\Streams, Files and Directories.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\obj\Debug\netcoreapp3.1\Streams, Files and Directories.dll
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\obj\Debug\netcoreapp3.1\Streams, Files and Directories.pdb
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Exercise\Streams, Files and Directories\obj\Debug\netcoreapp3.1\Streams, Files and Directories.genruntimeconfig.cache
