@@ -1,0 +1,16 @@
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.exe
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\bin\Debug\netcoreapp3.1\FileOne.txt
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\bin\Debug\netcoreapp3.1\FileTwo.txt
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.deps.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.dll
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.pdb
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.dll
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.pdb
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.genruntimeconfig.cache

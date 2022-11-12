@@ -1,0 +1,15 @@
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.exe
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\bin\Debug\netcoreapp3.1\sliceMe.txt
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.deps.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.dll
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.pdb
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.dll
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.pdb
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.genruntimeconfig.cache

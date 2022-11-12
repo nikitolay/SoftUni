@@ -1,0 +1,22 @@
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.exe
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.deps.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.dll
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.pdb
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.dll
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.pdb
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.genruntimeconfig.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\TestFolder\2. Simple-Calculations-Exercises.docx
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\TestFolder\1. Java-Advanced-Stacks-and-Queues-Exercises.docx
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\TestFolder\1. Java-Advanced-Stacks-and-Queues-Lab.docx
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\TestFolder\1. Java-Advanced-Stacks-and-Queues.pptx
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\TestFolder\TestFolder2\1. Java-Advanced-Stacks-and-Queues-Exercises.docx
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\TestFolder\TestFolder2\1. Java-Advanced-Stacks-and-Queues-Lab.docx
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\TestFolder\TestFolder2\1. Java-Advanced-Stacks-and-Queues.pptx
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\6. Folder Size\bin\Debug\netcoreapp3.1\TestFolder\TestFolder2\2. Simple-Calculations-Exercises.docx

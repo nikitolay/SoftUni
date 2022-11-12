@@ -1,0 +1,15 @@
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.exe
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.deps.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.dll
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.pdb
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.dll
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.pdb
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.genruntimeconfig.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\Input.txt

@@ -1,0 +1,15 @@
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.exe
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.deps.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.dll
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.pdb
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.dll
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.pdb
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.genruntimeconfig.cache
+C:\git\SoftUni\C# Advanced\04. Streams, Files and Directories\Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\Input.txt
