@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.exe
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.deps.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.dll
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.pdb
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.dll
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.pdb
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.genruntimeconfig.cache

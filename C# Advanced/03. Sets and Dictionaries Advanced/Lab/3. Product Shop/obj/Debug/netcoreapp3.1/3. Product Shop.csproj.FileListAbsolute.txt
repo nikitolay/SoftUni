@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.exe
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.deps.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.dll
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.pdb
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.dll
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.pdb
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.genruntimeconfig.cache

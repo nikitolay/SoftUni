@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\bin\Debug\netcoreapp3.1\6. Parking Lot.exe
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\bin\Debug\netcoreapp3.1\6. Parking Lot.deps.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\bin\Debug\netcoreapp3.1\6. Parking Lot.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\bin\Debug\netcoreapp3.1\6. Parking Lot.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\bin\Debug\netcoreapp3.1\6. Parking Lot.dll
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\bin\Debug\netcoreapp3.1\6. Parking Lot.pdb
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.dll
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.pdb
+C:\git\SoftUni\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.genruntimeconfig.cache
