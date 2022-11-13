@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.exe
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.deps.json
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.dll
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.pdb
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.dll
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.pdb
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.genruntimeconfig.cache

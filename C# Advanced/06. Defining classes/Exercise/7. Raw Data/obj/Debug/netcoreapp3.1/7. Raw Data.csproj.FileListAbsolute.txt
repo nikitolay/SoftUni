@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\bin\Debug\netcoreapp3.1\7. Raw Data.exe
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\bin\Debug\netcoreapp3.1\7. Raw Data.deps.json
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\bin\Debug\netcoreapp3.1\7. Raw Data.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\bin\Debug\netcoreapp3.1\7. Raw Data.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\bin\Debug\netcoreapp3.1\7. Raw Data.dll
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\bin\Debug\netcoreapp3.1\7. Raw Data.pdb
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\obj\Debug\netcoreapp3.1\7. Raw Data.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\obj\Debug\netcoreapp3.1\7. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\obj\Debug\netcoreapp3.1\7. Raw Data.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\obj\Debug\netcoreapp3.1\7. Raw Data.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\obj\Debug\netcoreapp3.1\7. Raw Data.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\obj\Debug\netcoreapp3.1\7. Raw Data.dll
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\obj\Debug\netcoreapp3.1\7. Raw Data.pdb
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\7. Raw Data\obj\Debug\netcoreapp3.1\7. Raw Data.genruntimeconfig.cache

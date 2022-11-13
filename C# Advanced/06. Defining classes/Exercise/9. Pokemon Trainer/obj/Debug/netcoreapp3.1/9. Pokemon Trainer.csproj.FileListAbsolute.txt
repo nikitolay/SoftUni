@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\bin\Debug\netcoreapp3.1\9. Pokemon Trainer.exe
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\bin\Debug\netcoreapp3.1\9. Pokemon Trainer.deps.json
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\bin\Debug\netcoreapp3.1\9. Pokemon Trainer.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\bin\Debug\netcoreapp3.1\9. Pokemon Trainer.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\bin\Debug\netcoreapp3.1\9. Pokemon Trainer.dll
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\bin\Debug\netcoreapp3.1\9. Pokemon Trainer.pdb
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\obj\Debug\netcoreapp3.1\9. Pokemon Trainer.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\obj\Debug\netcoreapp3.1\9. Pokemon Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\obj\Debug\netcoreapp3.1\9. Pokemon Trainer.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\obj\Debug\netcoreapp3.1\9. Pokemon Trainer.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\obj\Debug\netcoreapp3.1\9. Pokemon Trainer.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\obj\Debug\netcoreapp3.1\9. Pokemon Trainer.dll
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\obj\Debug\netcoreapp3.1\9. Pokemon Trainer.pdb
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\9. Pokemon Trainer\obj\Debug\netcoreapp3.1\9. Pokemon Trainer.genruntimeconfig.cache
