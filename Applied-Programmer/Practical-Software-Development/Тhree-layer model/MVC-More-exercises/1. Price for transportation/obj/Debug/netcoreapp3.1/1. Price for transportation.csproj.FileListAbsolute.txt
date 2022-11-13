@@ -1,0 +1,14 @@
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\obj\Debug\netcoreapp3.1\1. Price for transportation.csproj.AssemblyReference.cache
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\obj\Debug\netcoreapp3.1\1. Price for transportation.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\obj\Debug\netcoreapp3.1\1. Price for transportation.AssemblyInfoInputs.cache
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\obj\Debug\netcoreapp3.1\1. Price for transportation.AssemblyInfo.cs
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\obj\Debug\netcoreapp3.1\1. Price for transportation.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\bin\Debug\netcoreapp3.1\1. Price for transportation.exe
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\bin\Debug\netcoreapp3.1\1. Price for transportation.deps.json
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\bin\Debug\netcoreapp3.1\1. Price for transportation.runtimeconfig.json
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\bin\Debug\netcoreapp3.1\1. Price for transportation.runtimeconfig.dev.json
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\bin\Debug\netcoreapp3.1\1. Price for transportation.dll
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\bin\Debug\netcoreapp3.1\1. Price for transportation.pdb
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\obj\Debug\netcoreapp3.1\1. Price for transportation.dll
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\obj\Debug\netcoreapp3.1\1. Price for transportation.pdb
+C:\git\SoftUni\Applied-Programmer\Practical-Software-Development\Тhree-layer model\MVC-More-exercises\1. Price for transportation\obj\Debug\netcoreapp3.1\1. Price for transportation.genruntimeconfig.cache

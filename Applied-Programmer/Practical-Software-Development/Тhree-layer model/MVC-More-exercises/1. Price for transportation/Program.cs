@@ -6,7 +6,7 @@ namespace _1._Price_for_transportation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Controller.Controller controller = new Controller.Controller();
         }
     }
 }

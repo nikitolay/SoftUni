@@ -6,17 +6,30 @@ namespace _1._Price_for_transportation.View
 {
     public class Display
     {
-        public int Km { get; set; }
-        public string Day { get; set; }
-        public double TheLowestPrice { get; set; }
-        private void GetValues()
+        public string time { get; set; }
+        public int kilometers { get; set; }
+        public double totalPrice { get; set; }
+
+        public Display()
         {
-            this.Km = int.Parse(Console.ReadLine());
-            this.Day = Console.ReadLine();
+            time = "";
+            kilometers = 0;
+            totalPrice = 0;
+            GetValues();
         }
-        public void ShowTheLowestPrice()
+
+        public void GetValues()
         {
-            Console.WriteLine(TheLowestPrice);
+            Console.WriteLine("Enter the kilometers you will travel: ");
+            kilometers = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter the phase of the day you will travel (day/night)");
+            time = Console.ReadLine();
         }
+        public void ShowCheapestWayToTravel()
+        {
+            Console.WriteLine($"Total price = {totalPrice:f2}");
+        }
+
     }
 }
