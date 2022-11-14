@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\bin\Debug\netcoreapp3.1\1. Define a Class Person.exe
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\bin\Debug\netcoreapp3.1\1. Define a Class Person.deps.json
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\bin\Debug\netcoreapp3.1\1. Define a Class Person.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\bin\Debug\netcoreapp3.1\1. Define a Class Person.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\bin\Debug\netcoreapp3.1\1. Define a Class Person.dll
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\bin\Debug\netcoreapp3.1\1. Define a Class Person.pdb
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.dll
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.pdb
+C:\git\SoftUni\C# Advanced\06. Defining classes\Exercise\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.genruntimeconfig.cache
