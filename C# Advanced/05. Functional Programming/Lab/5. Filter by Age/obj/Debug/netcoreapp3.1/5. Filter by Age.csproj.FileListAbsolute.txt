@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\bin\Debug\netcoreapp3.1\5. Filter by Age.exe
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\bin\Debug\netcoreapp3.1\5. Filter by Age.deps.json
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\bin\Debug\netcoreapp3.1\5. Filter by Age.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\bin\Debug\netcoreapp3.1\5. Filter by Age.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\bin\Debug\netcoreapp3.1\5. Filter by Age.dll
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\bin\Debug\netcoreapp3.1\5. Filter by Age.pdb
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\obj\Debug\netcoreapp3.1\5. Filter by Age.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\obj\Debug\netcoreapp3.1\5. Filter by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\obj\Debug\netcoreapp3.1\5. Filter by Age.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\obj\Debug\netcoreapp3.1\5. Filter by Age.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\obj\Debug\netcoreapp3.1\5. Filter by Age.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\obj\Debug\netcoreapp3.1\5. Filter by Age.dll
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\obj\Debug\netcoreapp3.1\5. Filter by Age.pdb
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Lab\5. Filter by Age\obj\Debug\netcoreapp3.1\5. Filter by Age.genruntimeconfig.cache
