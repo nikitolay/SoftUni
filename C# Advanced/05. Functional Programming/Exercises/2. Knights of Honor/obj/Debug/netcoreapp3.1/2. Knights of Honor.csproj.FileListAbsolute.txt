@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\bin\Debug\netcoreapp3.1\2. Knights of Honor.exe
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\bin\Debug\netcoreapp3.1\2. Knights of Honor.deps.json
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\bin\Debug\netcoreapp3.1\2. Knights of Honor.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\bin\Debug\netcoreapp3.1\2. Knights of Honor.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\bin\Debug\netcoreapp3.1\2. Knights of Honor.dll
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\bin\Debug\netcoreapp3.1\2. Knights of Honor.pdb
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.dll
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.pdb
+C:\git\SoftUni\C# Advanced\05. Functional Programming\Exercises\2. Knights of Honor\obj\Debug\netcoreapp3.1\2. Knights of Honor.genruntimeconfig.cache
