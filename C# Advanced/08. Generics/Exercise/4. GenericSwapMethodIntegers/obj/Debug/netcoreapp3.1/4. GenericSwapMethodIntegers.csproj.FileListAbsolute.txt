@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.exe
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.deps.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.dll
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.pdb
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.dll
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.pdb
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\4. GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4. GenericSwapMethodIntegers.genruntimeconfig.cache

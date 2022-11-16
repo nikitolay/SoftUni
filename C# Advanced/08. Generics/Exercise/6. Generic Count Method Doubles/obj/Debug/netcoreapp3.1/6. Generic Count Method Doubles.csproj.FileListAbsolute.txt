@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\bin\Debug\netcoreapp3.1\6. Generic Count Method Doubles.exe
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\bin\Debug\netcoreapp3.1\6. Generic Count Method Doubles.deps.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\bin\Debug\netcoreapp3.1\6. Generic Count Method Doubles.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\bin\Debug\netcoreapp3.1\6. Generic Count Method Doubles.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\bin\Debug\netcoreapp3.1\6. Generic Count Method Doubles.dll
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\bin\Debug\netcoreapp3.1\6. Generic Count Method Doubles.pdb
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\obj\Debug\netcoreapp3.1\6. Generic Count Method Doubles.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\obj\Debug\netcoreapp3.1\6. Generic Count Method Doubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\obj\Debug\netcoreapp3.1\6. Generic Count Method Doubles.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\obj\Debug\netcoreapp3.1\6. Generic Count Method Doubles.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\obj\Debug\netcoreapp3.1\6. Generic Count Method Doubles.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\obj\Debug\netcoreapp3.1\6. Generic Count Method Doubles.dll
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\obj\Debug\netcoreapp3.1\6. Generic Count Method Doubles.pdb
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\6. Generic Count Method Doubles\obj\Debug\netcoreapp3.1\6. Generic Count Method Doubles.genruntimeconfig.cache

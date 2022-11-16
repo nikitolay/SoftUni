@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\bin\Debug\netcoreapp3.1\8. Threeuple.exe
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\bin\Debug\netcoreapp3.1\8. Threeuple.deps.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\bin\Debug\netcoreapp3.1\8. Threeuple.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\bin\Debug\netcoreapp3.1\8. Threeuple.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\bin\Debug\netcoreapp3.1\8. Threeuple.dll
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\bin\Debug\netcoreapp3.1\8. Threeuple.pdb
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\obj\Debug\netcoreapp3.1\8. Threeuple.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\obj\Debug\netcoreapp3.1\8. Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\obj\Debug\netcoreapp3.1\8. Threeuple.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\obj\Debug\netcoreapp3.1\8. Threeuple.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\obj\Debug\netcoreapp3.1\8. Threeuple.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\obj\Debug\netcoreapp3.1\8. Threeuple.dll
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\obj\Debug\netcoreapp3.1\8. Threeuple.pdb
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\8. Threeuple\obj\Debug\netcoreapp3.1\8. Threeuple.genruntimeconfig.cache

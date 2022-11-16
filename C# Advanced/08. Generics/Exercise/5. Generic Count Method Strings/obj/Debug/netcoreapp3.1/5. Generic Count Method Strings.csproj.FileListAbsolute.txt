@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\bin\Debug\netcoreapp3.1\5. Generic Count Method Strings.exe
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\bin\Debug\netcoreapp3.1\5. Generic Count Method Strings.deps.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\bin\Debug\netcoreapp3.1\5. Generic Count Method Strings.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\bin\Debug\netcoreapp3.1\5. Generic Count Method Strings.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\bin\Debug\netcoreapp3.1\5. Generic Count Method Strings.dll
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\bin\Debug\netcoreapp3.1\5. Generic Count Method Strings.pdb
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\obj\Debug\netcoreapp3.1\5. Generic Count Method Strings.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\obj\Debug\netcoreapp3.1\5. Generic Count Method Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\obj\Debug\netcoreapp3.1\5. Generic Count Method Strings.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\obj\Debug\netcoreapp3.1\5. Generic Count Method Strings.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\obj\Debug\netcoreapp3.1\5. Generic Count Method Strings.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\obj\Debug\netcoreapp3.1\5. Generic Count Method Strings.dll
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\obj\Debug\netcoreapp3.1\5. Generic Count Method Strings.pdb
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\5. Generic Count Method Strings\obj\Debug\netcoreapp3.1\5. Generic Count Method Strings.genruntimeconfig.cache

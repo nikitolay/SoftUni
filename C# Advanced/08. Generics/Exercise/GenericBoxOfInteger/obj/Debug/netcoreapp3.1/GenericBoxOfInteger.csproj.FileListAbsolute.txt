@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.exe
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.deps.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.dll
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.pdb
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.dll
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.pdb
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.genruntimeconfig.cache

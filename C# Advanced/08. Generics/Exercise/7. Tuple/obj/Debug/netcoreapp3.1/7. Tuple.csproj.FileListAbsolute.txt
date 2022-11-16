@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\bin\Debug\netcoreapp3.1\7. Tuple.exe
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\bin\Debug\netcoreapp3.1\7. Tuple.deps.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\bin\Debug\netcoreapp3.1\7. Tuple.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\bin\Debug\netcoreapp3.1\7. Tuple.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\bin\Debug\netcoreapp3.1\7. Tuple.dll
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\bin\Debug\netcoreapp3.1\7. Tuple.pdb
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\obj\Debug\netcoreapp3.1\7. Tuple.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\obj\Debug\netcoreapp3.1\7. Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\obj\Debug\netcoreapp3.1\7. Tuple.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\obj\Debug\netcoreapp3.1\7. Tuple.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\obj\Debug\netcoreapp3.1\7. Tuple.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\obj\Debug\netcoreapp3.1\7. Tuple.dll
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\obj\Debug\netcoreapp3.1\7. Tuple.pdb
+C:\git\SoftUni\C# Advanced\08. Generics\Exercise\7. Tuple\obj\Debug\netcoreapp3.1\7. Tuple.genruntimeconfig.cache
