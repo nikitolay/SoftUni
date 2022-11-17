@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\bin\Debug\netcoreapp3.1\4. Froggy.exe
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\bin\Debug\netcoreapp3.1\4. Froggy.deps.json
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\bin\Debug\netcoreapp3.1\4. Froggy.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\bin\Debug\netcoreapp3.1\4. Froggy.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\bin\Debug\netcoreapp3.1\4. Froggy.dll
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\bin\Debug\netcoreapp3.1\4. Froggy.pdb
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\obj\Debug\netcoreapp3.1\4. Froggy.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\obj\Debug\netcoreapp3.1\4. Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\obj\Debug\netcoreapp3.1\4. Froggy.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\obj\Debug\netcoreapp3.1\4. Froggy.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\obj\Debug\netcoreapp3.1\4. Froggy.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\obj\Debug\netcoreapp3.1\4. Froggy.dll
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\obj\Debug\netcoreapp3.1\4. Froggy.pdb
+C:\git\SoftUni\C# Advanced\09. Iterators and Comparators\Exercise\4. Froggy\obj\Debug\netcoreapp3.1\4. Froggy.genruntimeconfig.cache
