@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\bin\Debug\netcoreapp3.1\2. Set Cover.exe
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\bin\Debug\netcoreapp3.1\2. Set Cover.deps.json
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\bin\Debug\netcoreapp3.1\2. Set Cover.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\bin\Debug\netcoreapp3.1\2. Set Cover.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\bin\Debug\netcoreapp3.1\2. Set Cover.dll
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\bin\Debug\netcoreapp3.1\2. Set Cover.pdb
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\obj\Debug\netcoreapp3.1\2. Set Cover.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\obj\Debug\netcoreapp3.1\2. Set Cover.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\obj\Debug\netcoreapp3.1\2. Set Cover.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\obj\Debug\netcoreapp3.1\2. Set Cover.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\obj\Debug\netcoreapp3.1\2. Set Cover.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\obj\Debug\netcoreapp3.1\2. Set Cover.dll
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\obj\Debug\netcoreapp3.1\2. Set Cover.pdb
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\2. Set Cover\obj\Debug\netcoreapp3.1\2. Set Cover.genruntimeconfig.cache
