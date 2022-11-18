@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Recursive Array Sum", "1. Recursive Array Sum\1. Recursive Array Sum.csproj", "{7DFB6C9C-12CD-4477-A8CA-3389A2A44FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Recursive Factorial", "2. Recursive Factorial\2. Recursive Factorial.csproj", "{3D66BEA6-5F32-45F9-83BA-B33D1EC38A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DFB6C9C-12CD-4477-A8CA-3389A2A44FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFB6C9C-12CD-4477-A8CA-3389A2A44FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFB6C9C-12CD-4477-A8CA-3389A2A44FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFB6C9C-12CD-4477-A8CA-3389A2A44FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D66BEA6-5F32-45F9-83BA-B33D1EC38A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D66BEA6-5F32-45F9-83BA-B33D1EC38A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D66BEA6-5F32-45F9-83BA-B33D1EC38A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D66BEA6-5F32-45F9-83BA-B33D1EC38A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD3E25F6-2BAC-4EFF-B361-737AFA36DAEF}
+	EndGlobalSection
+EndGlobal

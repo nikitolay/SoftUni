@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\bin\Debug\netcoreapp3.1\2. Recursive Factorial.exe
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\bin\Debug\netcoreapp3.1\2. Recursive Factorial.deps.json
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\bin\Debug\netcoreapp3.1\2. Recursive Factorial.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\bin\Debug\netcoreapp3.1\2. Recursive Factorial.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\bin\Debug\netcoreapp3.1\2. Recursive Factorial.dll
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\bin\Debug\netcoreapp3.1\2. Recursive Factorial.pdb
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\obj\Debug\netcoreapp3.1\2. Recursive Factorial.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\obj\Debug\netcoreapp3.1\2. Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\obj\Debug\netcoreapp3.1\2. Recursive Factorial.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\obj\Debug\netcoreapp3.1\2. Recursive Factorial.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\obj\Debug\netcoreapp3.1\2. Recursive Factorial.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\obj\Debug\netcoreapp3.1\2. Recursive Factorial.dll
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\obj\Debug\netcoreapp3.1\2. Recursive Factorial.pdb
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Basic Algorithms\2. Recursive Factorial\obj\Debug\netcoreapp3.1\2. Recursive Factorial.genruntimeconfig.cache
