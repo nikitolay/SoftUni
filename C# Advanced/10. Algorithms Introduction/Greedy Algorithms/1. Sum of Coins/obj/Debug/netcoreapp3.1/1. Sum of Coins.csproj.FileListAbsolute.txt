@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\bin\Debug\netcoreapp3.1\1. Sum of Coins.exe
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\bin\Debug\netcoreapp3.1\1. Sum of Coins.deps.json
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\bin\Debug\netcoreapp3.1\1. Sum of Coins.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\bin\Debug\netcoreapp3.1\1. Sum of Coins.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\bin\Debug\netcoreapp3.1\1. Sum of Coins.dll
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\bin\Debug\netcoreapp3.1\1. Sum of Coins.pdb
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\obj\Debug\netcoreapp3.1\1. Sum of Coins.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\obj\Debug\netcoreapp3.1\1. Sum of Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\obj\Debug\netcoreapp3.1\1. Sum of Coins.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\obj\Debug\netcoreapp3.1\1. Sum of Coins.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\obj\Debug\netcoreapp3.1\1. Sum of Coins.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\obj\Debug\netcoreapp3.1\1. Sum of Coins.dll
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\obj\Debug\netcoreapp3.1\1. Sum of Coins.pdb
+C:\git\SoftUni\C# Advanced\10. Algorithms Introduction\Greedy Algorithms\1. Sum of Coins\obj\Debug\netcoreapp3.1\1. Sum of Coins.genruntimeconfig.cache
