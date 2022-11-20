@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.exe
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.deps.json
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.dll
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.pdb
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.dll
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.pdb
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\25 October 2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.genruntimeconfig.cache
