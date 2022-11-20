@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.exe
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.deps.json
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.runtimeconfig.json
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.runtimeconfig.dev.json
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.dll
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.pdb
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.AssemblyInfo.cs
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.dll
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.pdb
+C:\git\SoftUni\C# Advanced\11. Exam Preparation\Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.genruntimeconfig.cache
