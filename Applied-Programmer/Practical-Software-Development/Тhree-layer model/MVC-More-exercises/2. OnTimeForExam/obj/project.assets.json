@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\SoftUni\\Applied-Programmer\\Practical-Software-Development\\Тhree-layer model\\MVC-More-exercises\\1. Price for transportation\\1. Price for transportation.csproj",
-      "projectName": "1. Price for transportation",
-      "projectPath": "C:\\git\\SoftUni\\Applied-Programmer\\Practical-Software-Development\\Тhree-layer model\\MVC-More-exercises\\1. Price for transportation\\1. Price for transportation.csproj",
+      "projectUniqueName": "C:\\git\\SoftUni\\Applied-Programmer\\Practical-Software-Development\\Тhree-layer model\\MVC-More-exercises\\2. OnTimeForExam\\2. OnTimeForExam.csproj",
+      "projectName": "2. OnTimeForExam",
+      "projectPath": "C:\\git\\SoftUni\\Applied-Programmer\\Practical-Software-Development\\Тhree-layer model\\MVC-More-exercises\\2. OnTimeForExam\\2. OnTimeForExam.csproj",
       "packagesPath": "C:\\Users\\nikor\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\SoftUni\\Applied-Programmer\\Practical-Software-Development\\Тhree-layer model\\MVC-More-exercises\\1. Price for transportation\\obj\\",
+      "outputPath": "C:\\git\\SoftUni\\Applied-Programmer\\Practical-Software-Development\\Тhree-layer model\\MVC-More-exercises\\2. OnTimeForExam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nikor\\AppData\\Roaming\\NuGet\\NuGet.Config",
