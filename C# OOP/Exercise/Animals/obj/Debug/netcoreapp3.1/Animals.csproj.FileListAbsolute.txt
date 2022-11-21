@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\git\SoftUni\C# OOP\Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\git\SoftUni\C# OOP\Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\git\SoftUni\C# OOP\Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\git\SoftUni\C# OOP\Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\git\SoftUni\C# OOP\Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\git\SoftUni\C# OOP\Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\git\SoftUni\C# OOP\Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
