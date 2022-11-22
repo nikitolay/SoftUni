@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\bin\Debug\netcoreapp3.1\3. Shopping Spree.exe
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\bin\Debug\netcoreapp3.1\3. Shopping Spree.deps.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\bin\Debug\netcoreapp3.1\3. Shopping Spree.runtimeconfig.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\bin\Debug\netcoreapp3.1\3. Shopping Spree.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\bin\Debug\netcoreapp3.1\3. Shopping Spree.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\bin\Debug\netcoreapp3.1\3. Shopping Spree.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\obj\Debug\netcoreapp3.1\3. Shopping Spree.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\obj\Debug\netcoreapp3.1\3. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\obj\Debug\netcoreapp3.1\3. Shopping Spree.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\obj\Debug\netcoreapp3.1\3. Shopping Spree.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\obj\Debug\netcoreapp3.1\3. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\obj\Debug\netcoreapp3.1\3. Shopping Spree.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\obj\Debug\netcoreapp3.1\3. Shopping Spree.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\3. Shopping Spree\obj\Debug\netcoreapp3.1\3. Shopping Spree.genruntimeconfig.cache

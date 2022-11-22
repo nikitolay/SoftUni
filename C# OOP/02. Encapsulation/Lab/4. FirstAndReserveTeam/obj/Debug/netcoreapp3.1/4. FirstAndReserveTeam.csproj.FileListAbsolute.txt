@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\bin\Debug\netcoreapp3.1\4. FirstAndReserveTeam.exe
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\bin\Debug\netcoreapp3.1\4. FirstAndReserveTeam.deps.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\bin\Debug\netcoreapp3.1\4. FirstAndReserveTeam.runtimeconfig.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\bin\Debug\netcoreapp3.1\4. FirstAndReserveTeam.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\bin\Debug\netcoreapp3.1\4. FirstAndReserveTeam.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\bin\Debug\netcoreapp3.1\4. FirstAndReserveTeam.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\obj\Debug\netcoreapp3.1\4. FirstAndReserveTeam.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\obj\Debug\netcoreapp3.1\4. FirstAndReserveTeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\obj\Debug\netcoreapp3.1\4. FirstAndReserveTeam.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\obj\Debug\netcoreapp3.1\4. FirstAndReserveTeam.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\obj\Debug\netcoreapp3.1\4. FirstAndReserveTeam.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\obj\Debug\netcoreapp3.1\4. FirstAndReserveTeam.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\obj\Debug\netcoreapp3.1\4. FirstAndReserveTeam.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\4. FirstAndReserveTeam\obj\Debug\netcoreapp3.1\4. FirstAndReserveTeam.genruntimeconfig.cache

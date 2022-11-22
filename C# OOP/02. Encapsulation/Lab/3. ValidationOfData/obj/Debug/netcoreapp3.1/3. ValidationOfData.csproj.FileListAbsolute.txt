@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\bin\Debug\netcoreapp3.1\3. ValidationOfData.exe
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\bin\Debug\netcoreapp3.1\3. ValidationOfData.deps.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\bin\Debug\netcoreapp3.1\3. ValidationOfData.runtimeconfig.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\bin\Debug\netcoreapp3.1\3. ValidationOfData.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\bin\Debug\netcoreapp3.1\3. ValidationOfData.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\bin\Debug\netcoreapp3.1\3. ValidationOfData.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\obj\Debug\netcoreapp3.1\3. ValidationOfData.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\obj\Debug\netcoreapp3.1\3. ValidationOfData.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\obj\Debug\netcoreapp3.1\3. ValidationOfData.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\obj\Debug\netcoreapp3.1\3. ValidationOfData.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\obj\Debug\netcoreapp3.1\3. ValidationOfData.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\obj\Debug\netcoreapp3.1\3. ValidationOfData.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\obj\Debug\netcoreapp3.1\3. ValidationOfData.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\3. ValidationOfData\obj\Debug\netcoreapp3.1\3. ValidationOfData.genruntimeconfig.cache

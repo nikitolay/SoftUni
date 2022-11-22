@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\bin\Debug\netcoreapp3.1\1. ClassBoxData.exe
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\bin\Debug\netcoreapp3.1\1. ClassBoxData.deps.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\bin\Debug\netcoreapp3.1\1. ClassBoxData.runtimeconfig.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\bin\Debug\netcoreapp3.1\1. ClassBoxData.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\bin\Debug\netcoreapp3.1\1. ClassBoxData.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\bin\Debug\netcoreapp3.1\1. ClassBoxData.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\obj\Debug\netcoreapp3.1\1. ClassBoxData.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\obj\Debug\netcoreapp3.1\1. ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\obj\Debug\netcoreapp3.1\1. ClassBoxData.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\obj\Debug\netcoreapp3.1\1. ClassBoxData.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\obj\Debug\netcoreapp3.1\1. ClassBoxData.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\obj\Debug\netcoreapp3.1\1. ClassBoxData.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\obj\Debug\netcoreapp3.1\1. ClassBoxData.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\1. ClassBoxData\obj\Debug\netcoreapp3.1\1. ClassBoxData.genruntimeconfig.cache

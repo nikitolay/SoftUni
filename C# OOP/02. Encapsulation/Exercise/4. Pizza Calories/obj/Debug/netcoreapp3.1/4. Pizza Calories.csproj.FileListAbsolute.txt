@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\bin\Debug\netcoreapp3.1\4. Pizza Calories.exe
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\bin\Debug\netcoreapp3.1\4. Pizza Calories.deps.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\bin\Debug\netcoreapp3.1\4. Pizza Calories.runtimeconfig.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\bin\Debug\netcoreapp3.1\4. Pizza Calories.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\bin\Debug\netcoreapp3.1\4. Pizza Calories.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\bin\Debug\netcoreapp3.1\4. Pizza Calories.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\obj\Debug\netcoreapp3.1\4. Pizza Calories.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\obj\Debug\netcoreapp3.1\4. Pizza Calories.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\obj\Debug\netcoreapp3.1\4. Pizza Calories.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\obj\Debug\netcoreapp3.1\4. Pizza Calories.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\obj\Debug\netcoreapp3.1\4. Pizza Calories.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\obj\Debug\netcoreapp3.1\4. Pizza Calories.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\obj\Debug\netcoreapp3.1\4. Pizza Calories.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\4. Pizza Calories\obj\Debug\netcoreapp3.1\4. Pizza Calories.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\bin\Debug\netcoreapp3.1\2. SalaryIncrease.exe
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\bin\Debug\netcoreapp3.1\2. SalaryIncrease.deps.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\bin\Debug\netcoreapp3.1\2. SalaryIncrease.runtimeconfig.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\bin\Debug\netcoreapp3.1\2. SalaryIncrease.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\bin\Debug\netcoreapp3.1\2. SalaryIncrease.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\bin\Debug\netcoreapp3.1\2. SalaryIncrease.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\obj\Debug\netcoreapp3.1\2. SalaryIncrease.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\obj\Debug\netcoreapp3.1\2. SalaryIncrease.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\obj\Debug\netcoreapp3.1\2. SalaryIncrease.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\obj\Debug\netcoreapp3.1\2. SalaryIncrease.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\obj\Debug\netcoreapp3.1\2. SalaryIncrease.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\obj\Debug\netcoreapp3.1\2. SalaryIncrease.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\obj\Debug\netcoreapp3.1\2. SalaryIncrease.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Lab\2. SalaryIncrease\obj\Debug\netcoreapp3.1\2. SalaryIncrease.genruntimeconfig.cache

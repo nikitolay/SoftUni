@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\bin\Debug\netcoreapp3.1\5. Football Team Generator.exe
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\bin\Debug\netcoreapp3.1\5. Football Team Generator.deps.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\bin\Debug\netcoreapp3.1\5. Football Team Generator.runtimeconfig.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\bin\Debug\netcoreapp3.1\5. Football Team Generator.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\bin\Debug\netcoreapp3.1\5. Football Team Generator.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\bin\Debug\netcoreapp3.1\5. Football Team Generator.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\obj\Debug\netcoreapp3.1\5. Football Team Generator.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\obj\Debug\netcoreapp3.1\5. Football Team Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\obj\Debug\netcoreapp3.1\5. Football Team Generator.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\obj\Debug\netcoreapp3.1\5. Football Team Generator.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\obj\Debug\netcoreapp3.1\5. Football Team Generator.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\obj\Debug\netcoreapp3.1\5. Football Team Generator.dll
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\obj\Debug\netcoreapp3.1\5. Football Team Generator.pdb
+C:\git\SoftUni\C# OOP\02. Encapsulation\Exercise\5. Football Team Generator\obj\Debug\netcoreapp3.1\5. Football Team Generator.genruntimeconfig.cache
