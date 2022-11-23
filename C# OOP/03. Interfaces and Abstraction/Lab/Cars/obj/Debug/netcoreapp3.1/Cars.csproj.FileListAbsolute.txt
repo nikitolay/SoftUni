@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\obj\Debug\netcoreapp3.1\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Lab\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
