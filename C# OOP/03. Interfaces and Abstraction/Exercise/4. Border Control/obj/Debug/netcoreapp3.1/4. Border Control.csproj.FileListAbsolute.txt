@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\bin\Debug\netcoreapp3.1\4. Border Control.exe
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\bin\Debug\netcoreapp3.1\4. Border Control.deps.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\bin\Debug\netcoreapp3.1\4. Border Control.runtimeconfig.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\bin\Debug\netcoreapp3.1\4. Border Control.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\bin\Debug\netcoreapp3.1\4. Border Control.dll
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\bin\Debug\netcoreapp3.1\4. Border Control.pdb
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.dll
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.pdb
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.genruntimeconfig.cache

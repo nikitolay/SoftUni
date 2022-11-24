@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\obj\Debug\netcoreapp3.1\9. Explicit Interfaces.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\obj\Debug\netcoreapp3.1\9. Explicit Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\obj\Debug\netcoreapp3.1\9. Explicit Interfaces.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\obj\Debug\netcoreapp3.1\9. Explicit Interfaces.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\obj\Debug\netcoreapp3.1\9. Explicit Interfaces.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\bin\Debug\netcoreapp3.1\9. Explicit Interfaces.exe
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\bin\Debug\netcoreapp3.1\9. Explicit Interfaces.deps.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\bin\Debug\netcoreapp3.1\9. Explicit Interfaces.runtimeconfig.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\bin\Debug\netcoreapp3.1\9. Explicit Interfaces.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\bin\Debug\netcoreapp3.1\9. Explicit Interfaces.dll
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\bin\Debug\netcoreapp3.1\9. Explicit Interfaces.pdb
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\obj\Debug\netcoreapp3.1\9. Explicit Interfaces.dll
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\obj\Debug\netcoreapp3.1\9. Explicit Interfaces.pdb
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\9. Explicit Interfaces\obj\Debug\netcoreapp3.1\9. Explicit Interfaces.genruntimeconfig.cache

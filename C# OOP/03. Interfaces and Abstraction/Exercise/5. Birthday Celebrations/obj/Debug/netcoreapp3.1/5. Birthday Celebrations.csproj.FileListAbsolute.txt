@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\bin\Debug\netcoreapp3.1\5. Birthday Celebrations.exe
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\bin\Debug\netcoreapp3.1\5. Birthday Celebrations.deps.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\bin\Debug\netcoreapp3.1\5. Birthday Celebrations.runtimeconfig.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\bin\Debug\netcoreapp3.1\5. Birthday Celebrations.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\bin\Debug\netcoreapp3.1\5. Birthday Celebrations.dll
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\bin\Debug\netcoreapp3.1\5. Birthday Celebrations.pdb
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\obj\Debug\netcoreapp3.1\5. Birthday Celebrations.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\obj\Debug\netcoreapp3.1\5. Birthday Celebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\obj\Debug\netcoreapp3.1\5. Birthday Celebrations.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\obj\Debug\netcoreapp3.1\5. Birthday Celebrations.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\obj\Debug\netcoreapp3.1\5. Birthday Celebrations.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\obj\Debug\netcoreapp3.1\5. Birthday Celebrations.dll
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\obj\Debug\netcoreapp3.1\5. Birthday Celebrations.pdb
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\5. Birthday Celebrations\obj\Debug\netcoreapp3.1\5. Birthday Celebrations.genruntimeconfig.cache

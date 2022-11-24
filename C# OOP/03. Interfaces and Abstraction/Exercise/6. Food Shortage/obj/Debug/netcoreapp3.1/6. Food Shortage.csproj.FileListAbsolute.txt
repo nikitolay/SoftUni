@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\bin\Debug\netcoreapp3.1\6. Food Shortage.exe
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\bin\Debug\netcoreapp3.1\6. Food Shortage.deps.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\bin\Debug\netcoreapp3.1\6. Food Shortage.runtimeconfig.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\bin\Debug\netcoreapp3.1\6. Food Shortage.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\bin\Debug\netcoreapp3.1\6. Food Shortage.dll
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\bin\Debug\netcoreapp3.1\6. Food Shortage.pdb
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\obj\Debug\netcoreapp3.1\6. Food Shortage.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\obj\Debug\netcoreapp3.1\6. Food Shortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\obj\Debug\netcoreapp3.1\6. Food Shortage.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\obj\Debug\netcoreapp3.1\6. Food Shortage.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\obj\Debug\netcoreapp3.1\6. Food Shortage.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\obj\Debug\netcoreapp3.1\6. Food Shortage.dll
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\obj\Debug\netcoreapp3.1\6. Food Shortage.pdb
+C:\git\SoftUni\C# OOP\03. Interfaces and Abstraction\Exercise\6. Food Shortage\obj\Debug\netcoreapp3.1\6. Food Shortage.genruntimeconfig.cache
