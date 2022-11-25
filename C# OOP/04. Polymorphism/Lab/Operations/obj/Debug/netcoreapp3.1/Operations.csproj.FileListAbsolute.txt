@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+C:\git\SoftUni\C# OOP\04. Polymorphism\Lab\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache
