@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\bin\Debug\netcoreapp3.1\T02.VehiclesExtension.exe
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\bin\Debug\netcoreapp3.1\T02.VehiclesExtension.deps.json
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\bin\Debug\netcoreapp3.1\T02.VehiclesExtension.runtimeconfig.json
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\bin\Debug\netcoreapp3.1\T02.VehiclesExtension.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\bin\Debug\netcoreapp3.1\T02.VehiclesExtension.dll
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\bin\Debug\netcoreapp3.1\T02.VehiclesExtension.pdb
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\obj\Debug\netcoreapp3.1\T02.VehiclesExtension.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\obj\Debug\netcoreapp3.1\T02.VehiclesExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\obj\Debug\netcoreapp3.1\T02.VehiclesExtension.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\obj\Debug\netcoreapp3.1\T02.VehiclesExtension.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\obj\Debug\netcoreapp3.1\T02.VehiclesExtension.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\obj\Debug\netcoreapp3.1\T02.VehiclesExtension.dll
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\obj\Debug\netcoreapp3.1\T02.VehiclesExtension.pdb
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T02.VehiclesExtension\obj\Debug\netcoreapp3.1\T02.VehiclesExtension.genruntimeconfig.cache

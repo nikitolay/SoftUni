@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\bin\Debug\netcoreapp3.1\T03.Raiding.exe
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\bin\Debug\netcoreapp3.1\T03.Raiding.deps.json
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\bin\Debug\netcoreapp3.1\T03.Raiding.runtimeconfig.json
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\bin\Debug\netcoreapp3.1\T03.Raiding.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\bin\Debug\netcoreapp3.1\T03.Raiding.dll
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\bin\Debug\netcoreapp3.1\T03.Raiding.pdb
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\obj\Debug\netcoreapp3.1\T03.Raiding.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\obj\Debug\netcoreapp3.1\T03.Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\obj\Debug\netcoreapp3.1\T03.Raiding.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\obj\Debug\netcoreapp3.1\T03.Raiding.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\obj\Debug\netcoreapp3.1\T03.Raiding.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\obj\Debug\netcoreapp3.1\T03.Raiding.dll
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\obj\Debug\netcoreapp3.1\T03.Raiding.pdb
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T03.Raiding\obj\Debug\netcoreapp3.1\T03.Raiding.genruntimeconfig.cache

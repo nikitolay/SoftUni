@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\bin\Debug\netcoreapp3.1\T04.WildFarm.exe
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\bin\Debug\netcoreapp3.1\T04.WildFarm.deps.json
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\bin\Debug\netcoreapp3.1\T04.WildFarm.runtimeconfig.json
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\bin\Debug\netcoreapp3.1\T04.WildFarm.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\bin\Debug\netcoreapp3.1\T04.WildFarm.dll
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\bin\Debug\netcoreapp3.1\T04.WildFarm.pdb
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\obj\Debug\netcoreapp3.1\T04.WildFarm.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\obj\Debug\netcoreapp3.1\T04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\obj\Debug\netcoreapp3.1\T04.WildFarm.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\obj\Debug\netcoreapp3.1\T04.WildFarm.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\obj\Debug\netcoreapp3.1\T04.WildFarm.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\obj\Debug\netcoreapp3.1\T04.WildFarm.dll
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\obj\Debug\netcoreapp3.1\T04.WildFarm.pdb
+C:\git\SoftUni\C# OOP\04. Polymorphism\Exercises\T04.WildFarm\obj\Debug\netcoreapp3.1\T04.WildFarm.genruntimeconfig.cache
