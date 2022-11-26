@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\bin\Debug\netcoreapp3.1\T01.Square Root.exe
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\bin\Debug\netcoreapp3.1\T01.Square Root.deps.json
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\bin\Debug\netcoreapp3.1\T01.Square Root.runtimeconfig.json
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\bin\Debug\netcoreapp3.1\T01.Square Root.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\bin\Debug\netcoreapp3.1\T01.Square Root.dll
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\bin\Debug\netcoreapp3.1\T01.Square Root.pdb
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\obj\Debug\netcoreapp3.1\T01.Square Root.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\obj\Debug\netcoreapp3.1\T01.Square Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\obj\Debug\netcoreapp3.1\T01.Square Root.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\obj\Debug\netcoreapp3.1\T01.Square Root.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\obj\Debug\netcoreapp3.1\T01.Square Root.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\obj\Debug\netcoreapp3.1\T01.Square Root.dll
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\obj\Debug\netcoreapp3.1\T01.Square Root.pdb
+C:\git\SoftUni\C# OOP\05. Exception Handling\Exercise\T01.Square Root\obj\Debug\netcoreapp3.1\T01.Square Root.genruntimeconfig.cache
