@@ -23,7 +23,8 @@ namespace T01.Logger.Appenders
 
         public ReportLevel ReportLevel { get; set; }
 
-        public override string ToString()
+
+        public virtual string GetAppenderInfo()
         {
             return $"Appender type: {this.GetType().Name}, Layout type: {this.Layout.GetType().Name}, Report level: {this.ReportLevel}, Messages appended: {this.MessagesCount}";
         }

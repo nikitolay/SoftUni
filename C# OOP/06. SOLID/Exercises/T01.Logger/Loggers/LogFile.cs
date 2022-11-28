@@ -14,8 +14,7 @@ namespace T01.Logger.Loggers
 
         public LogFile()
         {
-            FileStream fs = new FileStream(path, FileMode.Create);
-            fs.Close();
+           using FileStream fs = new FileStream(path, FileMode.Create);
         }
 
         public int Size

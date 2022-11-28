@@ -1,0 +1,16 @@
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\bin\Debug\net6.0\T01.Logger.exe
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\bin\Debug\net6.0\T01.Logger.deps.json
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\bin\Debug\net6.0\T01.Logger.runtimeconfig.json
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\bin\Debug\net6.0\T01.Logger.dll
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\bin\Debug\net6.0\T01.Logger.pdb
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\obj\Debug\net6.0\T01.Logger.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\obj\Debug\net6.0\T01.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\obj\Debug\net6.0\T01.Logger.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\obj\Debug\net6.0\T01.Logger.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\obj\Debug\net6.0\T01.Logger.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\obj\Debug\net6.0\T01.Logger.dll
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\obj\Debug\net6.0\refint\T01.Logger.dll
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\obj\Debug\net6.0\T01.Logger.pdb
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\obj\Debug\net6.0\T01.Logger.genruntimeconfig.cache
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\obj\Debug\net6.0\ref\T01.Logger.dll
+C:\git\SoftUni\C# OOP\06. SOLID\Exercises\T01.Logger\bin\Debug\net6.0\log.txt

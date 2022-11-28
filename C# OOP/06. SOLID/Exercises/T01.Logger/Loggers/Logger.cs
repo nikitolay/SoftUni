@@ -9,52 +9,49 @@ using T01.Logger.Loggers.Interfaces;
 
 namespace T01.Logger.Loggers
 {
-    public abstract class Logger : ILogger
+    public class Logger : ILogger
     {
         public Logger(params IAppender[] appenders)
         {
-            Appenders = appenders;
+            Appenders = appenders.ToList();
         }
 
         public ICollection<IAppender> Appenders { get; }
 
         public void Critical(string date, string message)
         {
-            foreach (var appender in Appenders)
-            {
-                appender.Append(date, ReportLevel.Critical, message);
-            }
+            Log(date, ReportLevel.Critical, message);
+
         }
+
 
         public void Error(string date, string message)
         {
-            foreach (var appender in Appenders)
-            {
-                appender.Append(date, ReportLevel.Error, message);
-            }
+            Log(date, ReportLevel.Error, message);
+
         }
 
         public void Fatal(string date, string message)
         {
-            foreach (var appender in Appenders)
-            {
-                appender.Append(date, ReportLevel.Fatal, message);
-            }
+            Log(date, ReportLevel.Fatal, message);
+
         }
 
         public void Info(string date, string message)
         {
-            foreach (var appender in Appenders)
-            {
-                appender.Append(date, ReportLevel.Info, message);
-            }
+            Log(date, ReportLevel.Info, message);
+
         }
 
-        public void Warn(string date, string message)
+        public void Warning(string date, string message)
+        {
+            Log(date, ReportLevel.Warning, message);
+        }
+        private void Log(string date, ReportLevel reportLevel, string message)
         {
             foreach (var appender in Appenders)
             {
-                appender.Append(date, ReportLevel.Warning, message);
+                appender.Append(date, reportLevel, message);
             }
         }
         public override string ToString()
@@ -65,7 +62,7 @@ namespace T01.Logger.Loggers
 
             foreach (var appender in this.Appenders)
             {
-                builder.AppendLine(appender.ToString());
+                builder.AppendLine(appender.GetAppenderInfo());
             }
 
             return builder.ToString().TrimEnd();

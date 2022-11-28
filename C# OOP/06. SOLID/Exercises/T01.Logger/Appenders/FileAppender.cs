@@ -11,22 +11,24 @@ namespace T01.Logger.Appenders
 {
     public class FileAppender : Appender
     {
-        public FileAppender(ILayout layout)
+        public FileAppender(ILayout layout, ILogFile logFile)
             : base(layout)
         {
+            File= logFile;
         }
         public ILogFile File { get; set; }
+
         public override void Append(string date, ReportLevel level, string message)
         {
             if (ReportLevel <= level)
             {
                 MessagesCount++;
-                File.Write(string.Format(Layout.Format, date, message));
+                File.Write(string.Format(Layout.Format, date, level,message));
             }
         }
-        public override string ToString()
+        public override string GetAppenderInfo()
         {
-            return base.ToString() + $", File size: {this.File.Size}";
+            return base.GetAppenderInfo() + $", File size: {this.File.Size}";
         }
     }
 }

@@ -13,7 +13,7 @@ namespace T01.Logger.Loggers.Interfaces
 
         void Error(string date, string message);
 
-        void Warn(string date, string message);
+        void Warning(string date, string message);
 
         void Info(string date, string message);
 
