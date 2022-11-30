@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.exe
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.dll
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.dll
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Exercises\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.genruntimeconfig.cache
