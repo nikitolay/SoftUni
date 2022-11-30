@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\bin\Debug\netcoreapp3.1\T04.Collector.exe
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\bin\Debug\netcoreapp3.1\T04.Collector.deps.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\bin\Debug\netcoreapp3.1\T04.Collector.runtimeconfig.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\bin\Debug\netcoreapp3.1\T04.Collector.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\bin\Debug\netcoreapp3.1\T04.Collector.dll
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\bin\Debug\netcoreapp3.1\T04.Collector.pdb
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\obj\Debug\netcoreapp3.1\T04.Collector.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\obj\Debug\netcoreapp3.1\T04.Collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\obj\Debug\netcoreapp3.1\T04.Collector.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\obj\Debug\netcoreapp3.1\T04.Collector.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\obj\Debug\netcoreapp3.1\T04.Collector.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\obj\Debug\netcoreapp3.1\T04.Collector.dll
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\obj\Debug\netcoreapp3.1\T04.Collector.pdb
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T04.Collector\obj\Debug\netcoreapp3.1\T04.Collector.genruntimeconfig.cache

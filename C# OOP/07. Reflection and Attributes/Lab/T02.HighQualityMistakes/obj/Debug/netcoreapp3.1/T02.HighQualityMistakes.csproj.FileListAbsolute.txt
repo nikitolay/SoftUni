@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\bin\Debug\netcoreapp3.1\T02.HighQualityMistakes.exe
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\bin\Debug\netcoreapp3.1\T02.HighQualityMistakes.deps.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\bin\Debug\netcoreapp3.1\T02.HighQualityMistakes.runtimeconfig.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\bin\Debug\netcoreapp3.1\T02.HighQualityMistakes.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\bin\Debug\netcoreapp3.1\T02.HighQualityMistakes.dll
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\bin\Debug\netcoreapp3.1\T02.HighQualityMistakes.pdb
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\obj\Debug\netcoreapp3.1\T02.HighQualityMistakes.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\obj\Debug\netcoreapp3.1\T02.HighQualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\obj\Debug\netcoreapp3.1\T02.HighQualityMistakes.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\obj\Debug\netcoreapp3.1\T02.HighQualityMistakes.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\obj\Debug\netcoreapp3.1\T02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\obj\Debug\netcoreapp3.1\T02.HighQualityMistakes.dll
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\obj\Debug\netcoreapp3.1\T02.HighQualityMistakes.pdb
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T02.HighQualityMistakes\obj\Debug\netcoreapp3.1\T02.HighQualityMistakes.genruntimeconfig.cache

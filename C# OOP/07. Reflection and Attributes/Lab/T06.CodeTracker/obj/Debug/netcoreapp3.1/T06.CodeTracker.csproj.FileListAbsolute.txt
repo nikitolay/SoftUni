@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\bin\Debug\netcoreapp3.1\T06.CodeTracker.exe
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\bin\Debug\netcoreapp3.1\T06.CodeTracker.deps.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\bin\Debug\netcoreapp3.1\T06.CodeTracker.runtimeconfig.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\bin\Debug\netcoreapp3.1\T06.CodeTracker.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\bin\Debug\netcoreapp3.1\T06.CodeTracker.dll
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\bin\Debug\netcoreapp3.1\T06.CodeTracker.pdb
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\obj\Debug\netcoreapp3.1\T06.CodeTracker.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\obj\Debug\netcoreapp3.1\T06.CodeTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\obj\Debug\netcoreapp3.1\T06.CodeTracker.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\obj\Debug\netcoreapp3.1\T06.CodeTracker.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\obj\Debug\netcoreapp3.1\T06.CodeTracker.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\obj\Debug\netcoreapp3.1\T06.CodeTracker.dll
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\obj\Debug\netcoreapp3.1\T06.CodeTracker.pdb
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T06.CodeTracker\obj\Debug\netcoreapp3.1\T06.CodeTracker.genruntimeconfig.cache

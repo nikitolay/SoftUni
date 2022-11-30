@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.exe
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.deps.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.runtimeconfig.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.dll
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.pdb
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.dll
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.pdb
+C:\git\SoftUni\C# OOP\07. Reflection and Attributes\Lab\T03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\T03.MissionPrivateImpossible.genruntimeconfig.cache
