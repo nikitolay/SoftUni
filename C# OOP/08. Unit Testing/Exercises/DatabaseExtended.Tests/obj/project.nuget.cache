@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NCS3Hum6FPEr1bk4/mRBf8RQbb6PlIKdhGQ0GkQK+BFTSPCDmXtOmDrgYqT48XjG+V0oPCZ6DX99FxuREjNq9g==",
+  "dgSpecHash": "arOSiWFcpwUJvwEHPjsNrWSTb1atwzhcxPjpBZYuWWMn+9NRbWK+P3sD1tmWjfO815xYebYfirTxWjTZVXLoTw==",
   "success": true,
   "projectFilePath": "C:\\git\\SoftUni\\C# OOP\\08. Unit Testing\\Exercises\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
   "expectedPackageFiles": [

@@ -94,3 +94,5 @@ C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\DatabaseExtended.Tests\obj\Debu
 C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\DatabaseExtended.Tests\obj\Debug\netcoreapp3.1\DatabaseExtended.Tests.dll
 C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\DatabaseExtended.Tests\obj\Debug\netcoreapp3.1\DatabaseExtended.Tests.pdb
 C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\DatabaseExtended.Tests\obj\Debug\netcoreapp3.1\DatabaseExtended.Tests.genruntimeconfig.cache
+C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\DatabaseExtended.Tests\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\DatabaseExtended.Tests\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
