@@ -94,3 +94,5 @@ C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\FightingArena.Tests\obj\Debug\n
 C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\FightingArena.Tests\obj\Debug\netcoreapp3.1\FightingArena.Tests.dll
 C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\FightingArena.Tests\obj\Debug\netcoreapp3.1\FightingArena.Tests.pdb
 C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\FightingArena.Tests\obj\Debug\netcoreapp3.1\FightingArena.Tests.genruntimeconfig.cache
+C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\FightingArena.Tests\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\FightingArena.Tests\bin\Debug\netcoreapp3.1\FightingArena.pdb
