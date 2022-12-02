@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nHBD0WaqiV8umlXULUCd/S0Rgw5TO9lb0nQi7gBa8sSzPKXzlCjBRCkewEtqFQCedlpuFI2suHqDFzqCP8NuTw==",
+  "dgSpecHash": "F8CjKgdTEi59N6MAdmlnriIqK7KG/1qWUVXNfvcQjdgz0rN3coueroMlkudYHu8Joyn55gcLW7QsPoP8LqoWbQ==",
   "success": true,
   "projectFilePath": "C:\\git\\SoftUni\\C# OOP\\08. Unit Testing\\Exercises\\CarManager.Tests\\CarManager.Tests.csproj",
   "expectedPackageFiles": [

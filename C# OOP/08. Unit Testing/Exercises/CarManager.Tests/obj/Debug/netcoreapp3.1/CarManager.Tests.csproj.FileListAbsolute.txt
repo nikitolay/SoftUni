@@ -94,3 +94,5 @@ C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\CarManager.Tests\obj\Debug\netc
 C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.dll
 C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.pdb
 C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.genruntimeconfig.cache
+C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\git\SoftUni\C# OOP\08. Unit Testing\Exercises\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.pdb
