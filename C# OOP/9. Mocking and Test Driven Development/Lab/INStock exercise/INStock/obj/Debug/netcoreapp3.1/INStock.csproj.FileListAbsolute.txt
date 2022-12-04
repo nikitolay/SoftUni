@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\bin\Debug\netcoreapp3.1\INStock.exe
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\bin\Debug\netcoreapp3.1\INStock.deps.json
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.json
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\bin\Debug\netcoreapp3.1\INStock.dll
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\bin\Debug\netcoreapp3.1\INStock.pdb
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\obj\Debug\netcoreapp3.1\INStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\obj\Debug\netcoreapp3.1\INStock.dll
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\obj\Debug\netcoreapp3.1\INStock.pdb
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Lab\INStock\obj\Debug\netcoreapp3.1\INStock.genruntimeconfig.cache
