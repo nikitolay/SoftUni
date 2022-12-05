@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.exe
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.deps.json
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.json
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.dll
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.pdb
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.dll
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.pdb
+C:\git\SoftUni\C# OOP\9. Mocking and Test Driven Development\Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.genruntimeconfig.cache
