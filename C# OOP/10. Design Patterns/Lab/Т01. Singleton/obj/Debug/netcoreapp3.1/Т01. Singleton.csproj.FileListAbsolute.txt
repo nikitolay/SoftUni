@@ -1,0 +1,15 @@
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\bin\Debug\netcoreapp3.1\Т01. Singleton.exe
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\bin\Debug\netcoreapp3.1\Т01. Singleton.deps.json
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\bin\Debug\netcoreapp3.1\Т01. Singleton.runtimeconfig.json
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\bin\Debug\netcoreapp3.1\Т01. Singleton.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\bin\Debug\netcoreapp3.1\Т01. Singleton.dll
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\bin\Debug\netcoreapp3.1\Т01. Singleton.pdb
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\obj\Debug\netcoreapp3.1\Т01. Singleton.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\obj\Debug\netcoreapp3.1\Т01. Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\obj\Debug\netcoreapp3.1\Т01. Singleton.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\obj\Debug\netcoreapp3.1\Т01. Singleton.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\obj\Debug\netcoreapp3.1\Т01. Singleton.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\obj\Debug\netcoreapp3.1\Т01. Singleton.dll
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\obj\Debug\netcoreapp3.1\Т01. Singleton.pdb
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\obj\Debug\netcoreapp3.1\Т01. Singleton.genruntimeconfig.cache
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\Т01. Singleton\bin\Debug\netcoreapp3.1\capitals.txt

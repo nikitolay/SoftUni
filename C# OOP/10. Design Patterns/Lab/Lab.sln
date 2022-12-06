@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Т01. Singleton", "Т01. Singleton\Т01. Singleton.csproj", "{B15D71AE-98C1-49F5-BA4B-68CC71AD80EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Facade", "T02. Facade\T02. Facade.csproj", "{6A44E830-DA63-425F-956B-62660493044C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15D71AE-98C1-49F5-BA4B-68CC71AD80EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15D71AE-98C1-49F5-BA4B-68CC71AD80EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15D71AE-98C1-49F5-BA4B-68CC71AD80EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15D71AE-98C1-49F5-BA4B-68CC71AD80EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A44E830-DA63-425F-956B-62660493044C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A44E830-DA63-425F-956B-62660493044C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A44E830-DA63-425F-956B-62660493044C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A44E830-DA63-425F-956B-62660493044C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFC6D9A9-D73E-4937-8831-E8A5A3DAA5DA}
+	EndGlobalSection
+EndGlobal
