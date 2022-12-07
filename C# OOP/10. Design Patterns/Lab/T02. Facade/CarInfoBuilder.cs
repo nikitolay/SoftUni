@@ -15,5 +15,15 @@ namespace T02._Facade
             Car.Type = type;
             return this;
         }
+        public CarInfoBuilder WithColor(string color)
+        {
+            Car.Color = color;
+            return this;
+        }
+        public CarInfoBuilder WithNumberOfDoors(int numberOfDoors)
+        {
+            Car.NumberOfDors = numberOfDoors;
+            return this;
+        }
     }
 }

@@ -8,7 +8,7 @@ namespace T02._Facade
     {
         public string Type { get; set; }
         public string Color { get; set; }
-        public string NumberOfDors { get; set; }
+        public int NumberOfDors { get; set; }
 
         public string City { get; set; }
         public string Address { get; set; }

@@ -6,7 +6,16 @@ namespace T02._Facade
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var car = new CarBuilderFacade()
+                 .Info
+                 .WithType("BMW")
+                 .WithColor("Black")
+                 .WithNumberOfDoors(5)
+                 .Built
+                 .InCity("Leipzig")
+                 .AtAddress("Some address 254")
+                 .Build();
+            Console.WriteLine(car);
         }
     }
 }

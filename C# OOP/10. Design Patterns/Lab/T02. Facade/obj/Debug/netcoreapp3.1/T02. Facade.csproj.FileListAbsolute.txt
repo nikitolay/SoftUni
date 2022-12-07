@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\bin\Debug\netcoreapp3.1\T02. Facade.exe
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\bin\Debug\netcoreapp3.1\T02. Facade.deps.json
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\bin\Debug\netcoreapp3.1\T02. Facade.runtimeconfig.json
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\bin\Debug\netcoreapp3.1\T02. Facade.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\bin\Debug\netcoreapp3.1\T02. Facade.dll
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\bin\Debug\netcoreapp3.1\T02. Facade.pdb
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\obj\Debug\netcoreapp3.1\T02. Facade.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\obj\Debug\netcoreapp3.1\T02. Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\obj\Debug\netcoreapp3.1\T02. Facade.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\obj\Debug\netcoreapp3.1\T02. Facade.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\obj\Debug\netcoreapp3.1\T02. Facade.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\obj\Debug\netcoreapp3.1\T02. Facade.dll
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\obj\Debug\netcoreapp3.1\T02. Facade.pdb
+C:\git\SoftUni\C# OOP\10. Design Patterns\Lab\T02. Facade\obj\Debug\netcoreapp3.1\T02. Facade.genruntimeconfig.cache
