@@ -1,0 +1,14 @@
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.exe
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.deps.json
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.json
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.dev.json
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.dll
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.pdb
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfo.cs
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.dll
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.pdb
+C:\git\SoftUni\C# OOP\11. Exam Preparation\C# OOP Exam – 14 Aug 2022\T03\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.genruntimeconfig.cache
