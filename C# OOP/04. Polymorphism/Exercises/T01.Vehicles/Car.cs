@@ -15,11 +15,11 @@ namespace T01.Vehicles
         public double FuelQuantity { get; set; }
         public double FuelConsumption { get; set; }
 
-        public void Drive(double distance)
+        public virtual void Drive(double distance)
         {
-            if (distance * (FuelConsumption + 0.9) <= FuelQuantity)
+            if (distance * (FuelConsumption+0.9) <= FuelQuantity)
             {
-                FuelQuantity -= (FuelConsumption + 0.9) * distance;
+                FuelQuantity -= (FuelConsumption+0.9) * distance;
                 Console.WriteLine($"Car travelled {distance} km");
             }
             else
@@ -32,5 +32,6 @@ namespace T01.Vehicles
         {
             FuelQuantity += fuel;
         }
+
     }
 }

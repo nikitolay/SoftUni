@@ -15,23 +15,24 @@ namespace T01.Vehicles
         public double FuelQuantity { get; set; }
         public double FuelConsumption { get; set; }
 
-        public void Drive(double distance)
+        public virtual void Drive(double distance)
         {
-
-            if (distance * (FuelConsumption + 1.6) <= FuelQuantity)
+            if (distance * (FuelConsumption+1.6) <= FuelQuantity)
             {
-                FuelQuantity -= (FuelConsumption + 1.6) * distance;
+                FuelQuantity -= (FuelConsumption +1.6)* distance;
                 Console.WriteLine($"Truck travelled {distance} km");
             }
             else
             {
-                Console.WriteLine("Truck needs refueling");
+                Console.WriteLine($"Truck needs refueling");
             }
         }
 
         public void ReFuel(double fuel)
         {
-            FuelQuantity += fuel * 0.95;
+            FuelQuantity += fuel*0.95;
         }
+
+
     }
 }
