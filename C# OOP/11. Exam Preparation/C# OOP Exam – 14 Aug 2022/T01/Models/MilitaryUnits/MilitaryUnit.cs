@@ -8,16 +8,16 @@ namespace PlanetWars.Models.MilitaryUnits
 {
     public abstract class MilitaryUnit : IMilitaryUnit
     {
-        private const int InitialValueEnduranceLevel = 1;
+        private const int InitialValueOfEnduranceLevel = 1;
         public double Cost { get; }
 
         protected MilitaryUnit(double cost)
         {
             Cost = cost;
-            EnduranceLevel = InitialValueEnduranceLevel;
+            EnduranceLevel = InitialValueOfEnduranceLevel;
         }
 
-        public int EnduranceLevel { get; private set; }
+        public int EnduranceLevel { get; protected set; }
 
         public void IncreaseEndurance()
         {
@@ -26,6 +26,10 @@ namespace PlanetWars.Models.MilitaryUnits
             {
                 throw new ArgumentException(ExceptionMessages.EnduranceLevelExceeded);
             }
+        }
+        public override string ToString()
+        {
+            return $"{this.GetType().Name}";
         }
     }
 }

@@ -7,7 +7,7 @@ namespace PlanetWars.Models.Weapons
     public class BioChemicalWeapon : Weapon
     {
         public BioChemicalWeapon(int destructionLevel) 
-            : base(destructionLevel, 3200000000)
+            : base(destructionLevel, 3.2)
         {
         }
     }

@@ -7,7 +7,7 @@ namespace PlanetWars.Models.Weapons
     public class SpaceMissiles : Weapon
     {
         public SpaceMissiles(int destructionLevel)
-            : base(destructionLevel, 8750000000)
+            : base(destructionLevel, 8.75)
         {
         }
     }

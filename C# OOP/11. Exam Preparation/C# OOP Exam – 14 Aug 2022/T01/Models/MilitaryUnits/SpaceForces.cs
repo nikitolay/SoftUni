@@ -7,7 +7,7 @@ namespace PlanetWars.Models.MilitaryUnits
     public class SpaceForces : MilitaryUnit
     {
         public SpaceForces()
-            : base(11000000000)
+            : base(11)
         {
         }
     }
