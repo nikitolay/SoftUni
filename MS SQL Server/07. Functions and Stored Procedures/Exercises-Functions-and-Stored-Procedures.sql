@@ -136,4 +136,101 @@ BEGIN
 	ALTER TABLE Departments
 	ALTER COLUMN ManagerID INT
 
+	UPDATE Departments
+	SET ManagerID = NULL
+	WHERE DepartmentID = @departmentId
 
+	DELETE FROM Employees
+	WHERE DepartmentID = @departmentId
+
+	DELETE FROM Departments
+	WHERE DepartmentID = @departmentId
+
+	SELECT COUNT(*) FROM Employees
+	WHERE DepartmentID = @departmentId
+
+END
+
+GO
+
+USE Bank
+
+GO
+
+--ex.9
+
+CREATE OR ALTER PROC usp_GetHoldersFullName 
+AS
+BEGIN
+	SELECT FirstName+' '+LastName AS [Full Name]
+	FROM AccountHolders
+
+END
+
+EXEC usp_GetHoldersFullName 
+
+GO
+--ex.10
+CREATE OR ALTER PROC usp_GetHoldersWithBalanceHigherThan(@number DECIMAL(18,4))
+AS
+BEGIN
+
+	SELECT FirstName,LastName
+	FROM AccountHolders ah
+	JOIN Accounts a ON A.AccountHolderId=AH.Id
+	GROUP BY FirstName,LastName
+	HAVING SUM(a.Balance)>@number
+	ORDER BY FirstName,LastName
+
+END
+
+EXEC usp_GetHoldersWithBalanceHigherThan 10000
+
+--ex.11
+
+CREATE OR ALTER FUNCTION ufn_CalculateFutureValue(@sum DECIMAL(18,4),@rate FLOAT,@years INT)
+RETURNS DECIMAL(18,4)
+AS
+BEGIN
+		DECLARE @result DECIMAL(18,4)
+		SET @result=@sum*(POWER((1+@rate),@years))
+		RETURN @result
+
+END
+
+SELECT dbo.ufn_CalculateFutureValue(1000, 0.1, 5)
+
+--ex.12
+CREATE OR ALTER PROC usp_CalculateFutureValueForAccount (@accountId INT,@yearlyInterestRate FLOAT)
+AS
+BEGIN
+
+	SELECT a.Id,FirstName,LastName,a.Balance,dbo.ufn_CalculateFutureValue(a.Balance, @yearlyInterestRate, 5)
+	FROM Accounts a
+	JOIN AccountHolders ac ON a.AccountHolderId=ac.Id
+	WHERE a.AccountHolderId=@accountId
+
+END
+
+EXEC usp_CalculateFutureValueForAccount 1, 0.1
+
+GO
+
+USE Diablo
+
+--ex.13
+
+CREATE FUNCTION ufn_CashInUsersGames(@gameName VARCHAR(100))
+RETURNS TABLE
+AS
+RETURN SELECT SUM(Cash) AS SumCash FROM
+	(
+		SELECT g.Name, ug.Cash,
+			ROW_NUMBER() OVER (PARTITION BY g.Name ORDER BY ug.Cash DESC) AS RowNum
+		FROM Games g
+		JOIN UsersGames AS ug ON g.Id = ug.GameId
+		WHERE g.Name = @gameName
+	) AS RowNumQuery
+	WHERE RowNum % 2 != 0
+
+SELECT * FROM dbo.ufn_CashInUsersGames('Love in a mist')
