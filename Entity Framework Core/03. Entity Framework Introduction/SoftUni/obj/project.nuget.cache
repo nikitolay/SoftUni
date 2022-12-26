@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y9Wp1C5SUPiMqgGvwFOvRvLJ+4PcmlzR7i+HGeQP3e2YXYksjLYmpvWqGYqJ40Lk6uy4cop55VpBQVUPCYCxUQ==",
+  "dgSpecHash": "10RlcFkpVAMO/XzyT3Cw+8Gwdozsvpqn1D9SrJO9ESW6j8FfcKgoQ/n4HTUYXztwvedu0JcT4EWeI3cCPLDMdA==",
   "success": true,
-  "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\03. Entity Framework Introduction\\EntityFrameworkCore-Exercise\\SoftUni\\SoftUni.csproj",
+  "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\03. Entity Framework Introduction\\SoftUni\\SoftUni.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

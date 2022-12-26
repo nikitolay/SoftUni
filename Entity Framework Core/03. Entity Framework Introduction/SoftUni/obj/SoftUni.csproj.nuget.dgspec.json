@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\SoftUni\\Entity Framework Core\\03. Entity Framework Introduction\\EntityFrameworkCore-Exercise\\SoftUni\\SoftUni.csproj": {}
+    "C:\\git\\SoftUni\\Entity Framework Core\\03. Entity Framework Introduction\\SoftUni\\SoftUni.csproj": {}
   },
   "projects": {
-    "C:\\git\\SoftUni\\Entity Framework Core\\03. Entity Framework Introduction\\EntityFrameworkCore-Exercise\\SoftUni\\SoftUni.csproj": {
+    "C:\\git\\SoftUni\\Entity Framework Core\\03. Entity Framework Introduction\\SoftUni\\SoftUni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\SoftUni\\Entity Framework Core\\03. Entity Framework Introduction\\EntityFrameworkCore-Exercise\\SoftUni\\SoftUni.csproj",
+        "projectUniqueName": "C:\\git\\SoftUni\\Entity Framework Core\\03. Entity Framework Introduction\\SoftUni\\SoftUni.csproj",
         "projectName": "SoftUni",
-        "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\03. Entity Framework Introduction\\EntityFrameworkCore-Exercise\\SoftUni\\SoftUni.csproj",
+        "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\03. Entity Framework Introduction\\SoftUni\\SoftUni.csproj",
         "packagesPath": "C:\\Users\\nikor\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\SoftUni\\Entity Framework Core\\03. Entity Framework Introduction\\EntityFrameworkCore-Exercise\\SoftUni\\obj\\",
+        "outputPath": "C:\\git\\SoftUni\\Entity Framework Core\\03. Entity Framework Introduction\\SoftUni\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikor\\AppData\\Roaming\\NuGet\\NuGet.Config",
