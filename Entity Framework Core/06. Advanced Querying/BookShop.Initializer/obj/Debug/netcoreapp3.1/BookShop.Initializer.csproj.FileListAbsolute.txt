@@ -1,0 +1,15 @@
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.deps.json
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.dll
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.pdb
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.AssemblyReference.cache
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfoInputs.cache
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfo.cs
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CopyComplete
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.dll
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.pdb

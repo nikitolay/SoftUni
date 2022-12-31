@@ -1,0 +1,13 @@
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.AssemblyReference.cache
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+C:\git\SoftUni\Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb
