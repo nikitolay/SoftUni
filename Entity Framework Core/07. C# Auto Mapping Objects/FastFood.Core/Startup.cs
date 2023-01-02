@@ -14,7 +14,6 @@ namespace FastFood.Core
     using AutoMapper;
     using Data;
     using Microsoft.EntityFrameworkCore;
-    using System.Reflection;
 
     public class Startup
     {
@@ -32,7 +31,7 @@ namespace FastFood.Core
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddAutoMapper(Assembly.GetEntryAssembly());
+            services.AddAutoMapper(typeof(Startup));
 
             services.AddControllersWithViews();
         }

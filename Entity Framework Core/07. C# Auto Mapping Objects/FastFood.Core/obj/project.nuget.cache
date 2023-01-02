@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Zxeb0sFsbetLE2m1Sa38nuBT9HsLwLQmMOetGGDlitQIpk3ZWDLouyohP/KxCH3NUedOv3dEnC/eD/cVost6hQ==",
+  "dgSpecHash": "uaZT+cj0epcmeMMr5ZlDxmvc8M2Aem3YLhWVVvAPheUfhWb2FeBZTHvSzjq7uIkz69Vndf18TdEaAanuw8E9Ww==",
   "success": true,
   "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\07. C# Auto Mapping Objects\\FastFood.Core\\FastFood.Core.csproj",
   "expectedPackageFiles": [
@@ -21,14 +21,8 @@
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.3\\microsoft.extensions.configuration.binder.3.1.3.nupkg.sha512",
-    "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.0.0\\microsoft.extensions.configuration.fileextensions.3.0.0.nupkg.sha512",
-    "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.0.0\\microsoft.extensions.configuration.json.3.0.0.nupkg.sha512",
-    "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\3.0.0\\microsoft.extensions.configuration.usersecrets.3.0.0.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
-    "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.0.0\\microsoft.extensions.fileproviders.abstractions.3.0.0.nupkg.sha512",
-    "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.0.0\\microsoft.extensions.fileproviders.physical.3.0.0.nupkg.sha512",
-    "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.0.0\\microsoft.extensions.filesystemglobbing.3.0.0.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.logging\\3.1.3\\microsoft.extensions.logging.3.1.3.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.extensions.options\\3.1.3\\microsoft.extensions.options.3.1.3.nupkg.sha512",
