@@ -86,3 +86,4 @@ C:\git\SoftUni\Entity Framework Core\07. C# Auto Mapping Objects\FastFood.Core\o
 C:\git\SoftUni\Entity Framework Core\07. C# Auto Mapping Objects\FastFood.Core\obj\Debug\netcoreapp3.1\FastFood.Core.dll
 C:\git\SoftUni\Entity Framework Core\07. C# Auto Mapping Objects\FastFood.Core\obj\Debug\netcoreapp3.1\FastFood.Core.pdb
 C:\git\SoftUni\Entity Framework Core\07. C# Auto Mapping Objects\FastFood.Core\obj\Debug\netcoreapp3.1\FastFood.Core.genruntimeconfig.cache
+C:\git\SoftUni\Entity Framework Core\07. C# Auto Mapping Objects\FastFood.Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
