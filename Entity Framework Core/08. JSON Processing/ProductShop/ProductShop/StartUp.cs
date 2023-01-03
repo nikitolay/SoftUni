@@ -30,7 +30,7 @@ namespace ProductShop
             //ex. 4
             //string json = File.ReadAllText("../../../Datasets/categories-products.json");
 
-            Console.WriteLine(GetCategoriesByProductsCount(db));
+            Console.WriteLine(GetUsersWithProducts(db));
         }
         private static void InitliazeMapper()
         {
@@ -159,6 +159,49 @@ namespace ProductShop
                 .ToList();
 
             var result = JsonConvert.SerializeObject(categories, Formatting.Indented);
+
+            return result;
+        }
+        //ex. 8
+        public static string GetUsersWithProducts(ProductShopContext context)
+        {
+            var users = context.Users
+                .Where(x => x.ProductsSold.Any(y => y.BuyerId != null))
+                .Select(x => new
+                {
+                    firstName = x.FirstName,
+                    lastName = x.LastName,
+                    age = x.Age,
+                    soldProducts = new
+                    {
+                        count = x.ProductsSold.Count(y => y.BuyerId != null),
+                        products = x.ProductsSold.Where(p => p.BuyerId != null)
+                        .Select(p => new
+                        {
+                            name = p.Name,
+                            price = p.Price
+                        }).ToList()
+                    }
+                })
+                .OrderByDescending(x => x.soldProducts.products.Count())
+                .ToList();
+
+            var resultObj = new
+            {
+                usersCount = users.Count,
+                users
+            };
+
+
+            JsonSerializerSettings settings = new JsonSerializerSettings()
+            {
+                NullValueHandling = NullValueHandling.Ignore,
+                Formatting = Formatting.Indented,
+            };
+
+
+            var result = JsonConvert.SerializeObject(resultObj, Formatting.Indented);
+
 
             return result;
         }
