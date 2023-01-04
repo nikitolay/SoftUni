@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mDF+TWKMZHM/eTN/S95k5t5OwiTJd0Aw9QasPZjJy7fysRgzYkR+abBIA23cHV4JgZn/AeWa7qDQV/ex/cjFcw==",
+  "dgSpecHash": "qpfvw+2Eal0Va/8D8w5Wu+Uo5YGilVdCfqU5eGyTkomwLmPk7MhflptCIbpxqY8nNYzKVNEJjJrjv7iED3N2CA==",
   "success": true,
   "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4Qs0zrMMl6WSaHmYGGgfINTNL++SAAc5qvumqy8lWp+7gI0wjmYgWjIAleoGANq9VunL50ODV+H153kS4H/hLA==",
+  "dgSpecHash": "BtN8ENVRxZaWTkajg+YYpVJWP+SDyflW/WLozZabC257sqG1X38YungHmQc18aWpGzgHAsWstgtYhOMIB7L+yA==",
   "success": true,
   "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj",
   "expectedPackageFiles": [

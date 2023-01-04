@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Web\\PetStore.Web.csproj": {}
+    "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Web\\PetStore.Web.csproj": {}
   },
   "projects": {
-    "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Common\\PetStore.Common.csproj": {
+    "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Common\\PetStore.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Common\\PetStore.Common.csproj",
+        "projectUniqueName": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Common\\PetStore.Common.csproj",
         "projectName": "PetStore.Common",
-        "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Common\\PetStore.Common.csproj",
+        "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Common\\PetStore.Common.csproj",
         "packagesPath": "C:\\Users\\nikor\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Common\\obj\\",
+        "outputPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,18 +55,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Data\\PetStore.Data.csproj": {
+    "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Data\\PetStore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Data\\PetStore.Data.csproj",
+        "projectUniqueName": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Data\\PetStore.Data.csproj",
         "projectName": "PetStore.Data",
-        "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Data\\PetStore.Data.csproj",
+        "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Data\\PetStore.Data.csproj",
         "packagesPath": "C:\\Users\\nikor\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Data\\obj\\",
+        "outputPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,11 +83,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Common\\PetStore.Common.csproj": {
-                "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Common\\PetStore.Common.csproj"
+              "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Common\\PetStore.Common.csproj": {
+                "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Common\\PetStore.Common.csproj"
               },
-              "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Models\\PetStore.Models.csproj": {
-                "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Models\\PetStore.Models.csproj"
+              "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Models\\PetStore.Models.csproj": {
+                "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Models\\PetStore.Models.csproj"
               }
             }
           }
@@ -139,18 +139,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Models\\PetStore.Models.csproj": {
+    "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Models\\PetStore.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Models\\PetStore.Models.csproj",
+        "projectUniqueName": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Models\\PetStore.Models.csproj",
         "projectName": "PetStore.Models",
-        "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Models\\PetStore.Models.csproj",
+        "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Models\\PetStore.Models.csproj",
         "packagesPath": "C:\\Users\\nikor\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Models\\obj\\",
+        "outputPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -167,8 +167,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Common\\PetStore.Common.csproj": {
-                "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Common\\PetStore.Common.csproj"
+              "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Common\\PetStore.Common.csproj": {
+                "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Common\\PetStore.Common.csproj"
               }
             }
           }
@@ -198,18 +198,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Web\\PetStore.Web.csproj": {
+    "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Web\\PetStore.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Web\\PetStore.Web.csproj",
+        "projectUniqueName": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Web\\PetStore.Web.csproj",
         "projectName": "PetStore.Web",
-        "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Web\\PetStore.Web.csproj",
+        "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Web\\PetStore.Web.csproj",
         "packagesPath": "C:\\Users\\nikor\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Web\\obj\\",
+        "outputPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -226,8 +226,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Data\\PetStore.Data.csproj": {
-                "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Data\\PetStore.Data.csproj"
+              "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Data\\PetStore.Data.csproj": {
+                "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Data\\PetStore.Data.csproj"
               }
             }
           }
@@ -268,7 +268,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RIGMOXMQ8zHXbo3OyvWNtGXaYHyq/e5UMfUyyFiXuiOQ85Td3r2Sor+u9JY8wgR5XQ6+KGUxfw8/iw53Xx/Rrg==",
+  "dgSpecHash": "q7+tZZK/7la1X8C5WR+EPN77xjADumN7n8EalsdEuezoE7EFeFIqMVSx4Afs5fbOqQkOyM3udGcVVQWVourpcw==",
   "success": true,
-  "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Common\\PetStore.Common.csproj",
+  "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Common\\PetStore.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

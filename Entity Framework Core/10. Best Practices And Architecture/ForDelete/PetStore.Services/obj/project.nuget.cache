@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mVoDMC2ns61HH1NlgPF+nNqEPEhkyOuulPEInN68F3CWGD6jTuoFLrbT+qHxQw9PrfXpho3laggXYeY85vcZsQ==",
+  "dgSpecHash": "okK9oHICbxeXkbbiPpiirtxv8GFXWjWox8ZeoTn0xxv6sKAayRlOlv3TvAEQf4soWJLOfQOLGEF3KKM5YseKdA==",
   "success": true,
-  "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Services\\PetStore.Services.csproj",
+  "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Services\\PetStore.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikor\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

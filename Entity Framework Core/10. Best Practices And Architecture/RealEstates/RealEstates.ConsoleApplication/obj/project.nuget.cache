@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NpVyrbSZor/xbb2suD0/JTZsZCQi7hkqHRRASYx+A1KHh8xmUGsshxo9N6RxQjLUlHVhYodQYgtqnEsUJWImSg==",
+  "dgSpecHash": "kxh6yavqEyK/lqqh3KF8VM7LKG6RCshkYJ5wcmx9crXl/PkLTol7ybx+6wAKnXDTICG4DGyyev3Di0DBh+WCJw==",
   "success": true,
   "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\RealEstates\\RealEstates.ConsoleApplication\\RealEstates.ConsoleApplication.csproj",
   "expectedPackageFiles": [

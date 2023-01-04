@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CsL8w5dB6EWdahKiau9ES3BdByFGyEbvXpqCzY58ZlI7TTxAds/Cd+Zx/4UDFHpeW/N0tQqnoAHLkV+3iS/0SQ==",
+  "dgSpecHash": "A44Rq5MVlXzNA2NGrm6zmOW7MOXXmIVxJmubr7atYUgxMa9o0zWriC5OStKWMjBMULXnZSX1r357xhgoffMp8w==",
   "success": true,
-  "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Data\\PetStore.Data.csproj",
+  "projectFilePath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Data\\PetStore.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikor\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\nikor\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
