@@ -1,0 +1,13 @@
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+C:\git\SoftUni\Entity Framework Core\09. XML Processing\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
