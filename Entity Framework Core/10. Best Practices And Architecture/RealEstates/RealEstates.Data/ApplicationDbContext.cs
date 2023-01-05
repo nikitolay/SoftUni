@@ -30,7 +30,7 @@ namespace RealEstates.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=127.0.0.1;Database=RealEstates;TrustServerCertificate=True;User Id=Nikolay;Password=1a2b3c4dA@;");
+                optionsBuilder.UseSqlServer("Server=127.0.0.1;Database=RealEstates;TrustServerCertificate=True;User Id=Nikolay;Password=12345678@n;");
             }
         }
 
