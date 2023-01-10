@@ -7100,11 +7100,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Web\\PetStore.Web.csproj",
+      "projectUniqueName": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Web\\PetStore.Web.csproj",
       "projectName": "PetStore.Web",
-      "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Web\\PetStore.Web.csproj",
+      "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Web\\PetStore.Web.csproj",
       "packagesPath": "C:\\Users\\nikor\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Web\\obj\\",
+      "outputPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nikor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7121,8 +7121,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Data\\PetStore.Data.csproj": {
-              "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\ForDelete\\PetStore.Data\\PetStore.Data.csproj"
+            "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Data\\PetStore.Data.csproj": {
+              "projectPath": "C:\\git\\SoftUni\\Entity Framework Core\\10. Best Practices And Architecture\\PetStore\\PetStore.Data\\PetStore.Data.csproj"
             }
           }
         }

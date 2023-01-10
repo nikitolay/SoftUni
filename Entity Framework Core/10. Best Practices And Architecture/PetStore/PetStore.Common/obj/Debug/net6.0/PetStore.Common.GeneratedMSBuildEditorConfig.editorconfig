@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PetStore.Common
-build_property.ProjectDir = C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\ForDelete\PetStore.Common\
+build_property.ProjectDir = C:\git\SoftUni\Entity Framework Core\10. Best Practices And Architecture\PetStore\PetStore.Common\
