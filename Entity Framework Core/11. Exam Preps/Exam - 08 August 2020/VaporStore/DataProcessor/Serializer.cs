@@ -48,14 +48,13 @@
         {
             var users = context.Users
                 .AsEnumerable()
-                .Where(x => x.Cards.Any(x => x.Purchases.Count() > 0))
                 .Where(x => x.Cards.Any(y => y.Purchases.Any(k => k.Type.ToString() == storeType)))
                 .Select(x => new UserExportModel
                 {
                     Username = x.Username,
                     Purchases = x.Cards
                              .SelectMany(c => c.Purchases)
-                             //.Where(c => c.Type.ToString() == storeType)
+                             .Where(c => c.Type.ToString() == storeType)
                              .Select(c => new PurchaseExportModel
                              {
                                  Card = c.Card.Number,
@@ -70,10 +69,12 @@
                              })
                              .OrderBy(c => c.Date)
                              .ToArray(),
-                    TotalSpent =x.Cards.SelectMany(c=>c.Purchases).Select(g=>g.Game.Price).Sum()
+                    TotalSpent = x.Cards
+                                .Sum(c => c.Purchases.Where(p => p.Type.ToString() == storeType)
+                                .Sum(p => p.Game.Price))
                 })
-                .OrderByDescending(x=>x.TotalSpent)
-                .ThenBy(x=>x.Username)
+                .OrderByDescending(x => x.TotalSpent)
+                .ThenBy(x => x.Username)
                 .ToArray();
 
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(UserExportModel[]), new XmlRootAttribute("Users"));
