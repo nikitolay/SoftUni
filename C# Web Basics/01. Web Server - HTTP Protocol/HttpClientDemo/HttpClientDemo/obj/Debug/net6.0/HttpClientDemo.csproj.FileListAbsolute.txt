@@ -1,0 +1,15 @@
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.AssemblyInfo.cs
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.exe
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.deps.json
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.runtimeconfig.json
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.dll
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\bin\Debug\net6.0\HttpClientDemo.pdb
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.dll
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\refint\HttpClientDemo.dll
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.pdb
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\HttpClientDemo.genruntimeconfig.cache
+C:\git\SoftUni\C# Web Basics\01. Web Server - HTTP Protocol\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\ref\HttpClientDemo.dll
