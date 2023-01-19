@@ -4,7 +4,17 @@ namespace PrimeNumbersCounter
 {
     internal class Program
     {
+        static object lockObj = new object();
         static void Main(string[] args)
+        {
+            Task.Run(PrintPrimeCount);
+            while (true)
+            {
+                var input = Console.ReadLine();
+                Console.WriteLine(input.ToUpper());
+            }
+        }
+        static void PrintPrimeCount()
         {
             Stopwatch sw = Stopwatch.StartNew();
             long n = 10000000000;
@@ -22,7 +32,10 @@ namespace PrimeNumbersCounter
                 }
                 if (isPrime)
                 {
-                    count++;
+                    lock (lockObj)
+                    {
+                        count++;
+                    }
                 }
             }
             Console.WriteLine(count);
