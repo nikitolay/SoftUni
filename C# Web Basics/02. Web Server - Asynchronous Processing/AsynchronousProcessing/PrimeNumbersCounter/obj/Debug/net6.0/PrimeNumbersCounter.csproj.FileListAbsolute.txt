@@ -1,0 +1,15 @@
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\bin\Debug\net6.0\PrimeNumbersCounter.exe
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\bin\Debug\net6.0\PrimeNumbersCounter.deps.json
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\bin\Debug\net6.0\PrimeNumbersCounter.runtimeconfig.json
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\bin\Debug\net6.0\PrimeNumbersCounter.dll
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\bin\Debug\net6.0\PrimeNumbersCounter.pdb
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\obj\Debug\net6.0\PrimeNumbersCounter.csproj.AssemblyReference.cache
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\obj\Debug\net6.0\PrimeNumbersCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\obj\Debug\net6.0\PrimeNumbersCounter.AssemblyInfoInputs.cache
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\obj\Debug\net6.0\PrimeNumbersCounter.AssemblyInfo.cs
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\obj\Debug\net6.0\PrimeNumbersCounter.csproj.CoreCompileInputs.cache
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\obj\Debug\net6.0\PrimeNumbersCounter.dll
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\obj\Debug\net6.0\refint\PrimeNumbersCounter.dll
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\obj\Debug\net6.0\PrimeNumbersCounter.pdb
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\obj\Debug\net6.0\PrimeNumbersCounter.genruntimeconfig.cache
+C:\git\SoftUni\C# Web Basics\02. Web Server - Asynchronous Processing\AsynchronousProcessing\PrimeNumbersCounter\obj\Debug\net6.0\ref\PrimeNumbersCounter.dll

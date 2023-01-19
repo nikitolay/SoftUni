@@ -26,9 +26,11 @@ namespace HttpClientDemo
 
                 Console.WriteLine(requestString);
 
+                Thread.Sleep(5000);
+
                 string html = $"<h1> Hello from NikiServer {DateTime.Now}</h1>" +
                     $"<form method=post><input name=username /><input name=password />" +
-                    $"<input type=submit /></form>";
+                    $"<input type=submit /></form>"+DateTime.Now;
 
                 string response = "HTTP/1.1 200 OK" + NewLine +
                     "Server: NikiServer 2022" + NewLine +
