@@ -57,6 +57,12 @@ namespace HttpClientDemo
             string requestString = Encoding.UTF8.GetString(buffer, 0, length);
             Console.WriteLine(requestString);
 
+            bool sessionSet = false;
+            if (requestString.Contains("sid"))
+            {
+                sessionSet = true;
+            }
+
             string html = $"<h1> Hello from NikiServer {DateTime.Now}</h1>" +
                    $"<form method=post><input name=username /><input name=password />" +
                    $"<input type=submit /></form>" + DateTime.Now;
@@ -65,6 +71,7 @@ namespace HttpClientDemo
                 "Server: NikiServer 2022" + NewLine +
                 // "Location: https://google.com" + NewLine +
                 "Content-Type: text/html; charset=utf-8" + NewLine +
+                (sessionSet ? ("Set-Cookie: sid=1354gsdrg232fgd; Path=/;") : string.Empty) + NewLine +
                 "Content-Lenght: " + html.Length + NewLine +
                 NewLine +
                 html +
