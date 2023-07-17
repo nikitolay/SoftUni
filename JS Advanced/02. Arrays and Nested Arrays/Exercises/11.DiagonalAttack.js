@@ -8,9 +8,7 @@ function diagonalAttack(array) {
     sumOfFirstDiagonal += firstNum;
   }
   for (let i = 0; i < matrix.length; i++) {
-    let secondNum = Number(
-      matrix[i][matrix.length - 1 - i]
-    );
+    let secondNum = Number(matrix[i][matrix.length - 1 - i]);
     sumOfSecondDiagonal += secondNum;
   }
   if (sumOfFirstDiagonal === sumOfSecondDiagonal) {
@@ -26,20 +24,10 @@ function diagonalAttack(array) {
       }
       resultMatrix.push(currentArray);
     }
-  console.log(resultMatrix.join("\n").split(',').join(' '));
-
+    console.log(resultMatrix.join("\n").split(",").join(" "));
   } else {
-    console.log(matrix.join("\n").split(',').join(' '));
-
+    console.log(matrix.join("\n").split(",").join(" "));
   }
-  //   console.log(sumOfFirstDiagonal);
-  //   console.log(sumOfSecondDiagonal);
-  // for (let row = 0; row < resultMatrix.length; row++) {
-  //   for (let j = 0; j < resultMatrix.length; j++) {
-  //     console.log(resultMatrix[row][j]);
-  //   }
-  // }
-  // console.log(resultMatrix.join("\n"));
 }
 diagonalAttack([
   "5 3 12 3 1",
@@ -48,7 +36,4 @@ diagonalAttack([
   "1 4 5 2 2",
   "5 22 33 11 1",
 ]);
-diagonalAttack(['1 1 1',
-'1 1 1',
-'1 1 0']
-);
+diagonalAttack(["1 1 1", "1 1 1", "1 1 0"]);
